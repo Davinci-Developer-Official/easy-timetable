@@ -1,0 +1,20 @@
+{
+  "name": "easy-timetable",
+  "version": "1.0.0",
+  "description": "easy time table parser",
+  "license": "ISC",
+  "author": "Thomas,Victor & winrose",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "index": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
