@@ -19,7 +19,7 @@ function cleanCell(cell) {
 function Sheet() {
   const result = workbook.SheetNames.map(sheetName => {
     const sheet = workbook.Sheets[sheetName];
-    const rows = XLSX.utils.sheet_to_json(sheet, { header: 1, defval: "" });
+    const rows = XLSX.utils.sheet_to_json(sheet, {  defval: "" });
 
     // 1. Remove completely empty rows
     const filtered = rows.filter(row => row.some(cell => cell && cell.toString().trim() !== ""));

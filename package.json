@@ -11,6 +11,7 @@
     "index": "nodemon index.js"
   },
   "dependencies": {
+    "convert-excel-to-json": "^1.7.0",
     "express": "^5.1.0",
     "xlsx": "^0.18.5"
   },

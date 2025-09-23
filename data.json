@@ -1,0 +1,6606 @@
+{
+  "page 1": [
+    {
+      "Unit Code": "BBAM Y1S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "SAMUEL MBUGUA\r\nBAC 111 financial accounting 1\r\nL209"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "FLORA MWANJA\r\nBCU 111 Communication Skills\r\nONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "BONFACE MUNENE BEC 111 Microeconomics L209",
+      "Day": "DAVID GICHOHI BCU 112 Digital Literacy A401",
+      "Time": "DAVID CHEPKONGA MAT 111 basic mathematics A401"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "RAPHAEL MPUTHIA BBM 111 Foundations of Business Studies\r\nL205",
+      "Time": "BCU 113 Health and Wellness\r\nManagement SELF PACED LEARNING"
+    },
+    {
+      "Unit Code": "BBAM Y1S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "DAMARIS WANGUI BFN 121 introduction to financial management L005"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "RAPHAEL MPUTHIA BBM 121 principles of management ONLINE",
+      "Time": "SAMUEL MBUGUA\r\nBAC 121 financial accounting II L206"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "SAMUEL CHEGE BHR 121 human resource management\r\nL210",
+      "Day": "BONFACE MUNENE BEC 121 Macroeconomics L212",
+      "Time": "BONFACE MUNENE BEC 223 Development Economics\r\nL005"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "CATHERINE KURIA BFN 211 business law ONLINE"
+    },
+    {
+      "Unit Code": "BBAM Y2S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "DAMARIS WANGUI BFN 212 financial management L205",
+      "Day": "JAMES MINCHA\r\nBAC 212 cost accounting\r\nL211B"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "DAMARIS WANGUI\r\nBAC 321 principles of taxation L205"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "DANIEL IRERI\r\nMAT 214 business statistics I L209"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "EDITH MUTHIKE\r\nENV 101 environmental studies\r\nSELF PACED LEARNING",
+      "Time": "AGNES WAGENI\r\nBBM 213 insurance and risk management\r\nL212"
+    },
+    {
+      "Unit Code": "BBAM Y2S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "SAMUEL MBUGUA MAT 221 quantitative techniques\r\nL205",
+      "Day": "JAMES MINCHA BAC 221 management accounting I L203",
+      "Time": "DR. JOY KIBOR\r\nBCT 423 Management Information Systems ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "CATHERINE KURIA BFN 221 financial risk management L006"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "DR. CATHERINE NJOKI BMK 221 principles of marketing\r\nA103",
+      "Day": "BONFACE MUNENE BEC 121 Macroeconomics L212"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "DR. WYCLIFFE ARANI BPS 110 supply chain management ONLINE"
+    },
+    {
+      "Unit Code": "BBAM Y3S1 ACCOUNTING"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "DAMARIS WANGUI\r\nBAC 312 accounting for assets\r\nL212",
+      "Time": "SAMUEL KARIUKI\r\nBAC 316 principles of auditing\r\nONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "JAMES MINCHA\r\nBAC 311 management decision models\r\nL211A"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Time": "PHILIP OCHARO\r\nBAC 313 Advanced Financial\r\nAccounting I L211A"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "SAMUEL CHEGE BHR 311 organisational behavior\r\nA203"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "NELLIE NGANGA\r\nBCT 323 Electronic commerce\r\nA103"
+    },
+    {
+      "Unit Code": "BBAM Y3S1 FINANCE"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "DAMARIS WANGUI\r\nBAC 312 accounting for assets\r\nL212",
+      "Time": "CATHERINE KURIA BFN 312 corporate finance L006"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "JAMES MINCHA\r\nBAC 311 management decision models L211A"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "SAMUEL CHEGE BHR 311 organisational behavior\r\nA203"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "NELLIE NGANGA\r\nBCT 323 Electronic commerce\r\nA103",
+      "Time": "ANDREW NDEGE\r\nBFN 311 international finance\r\nL308"
+    },
+    {
+      "Unit Code": "BBAM Y3S1 HUMAN RESOURCES"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "DAMARIS WANGUI\r\nBAC 312 accounting for assets\r\nL212",
+      "Day": "SAMUEL CHEGE BHR 313 employee and industrial relations ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "JAMES MINCHA\r\nBAC 311 management decision models\r\nL211A",
+      "Day": "SAMUEL CHEGE BHR 312 labor laws ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "SAMUEL CHEGE BHR 311 organisational behavior\r\nA203"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "NELLIE NGANGA\r\nBCT 323 Electronic commerce\r\nA103"
+    },
+    {
+      "Unit Code": "BBAM Y3S1 MARKETING"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "DAMARIS WANGUI\r\nBAC 312 accounting for assets\r\nL212",
+      "Day": "EVANS NGUMO\r\nBMK 312 sales management\r\nONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "JAMES MINCHA\r\nBAC 311 management decision models\r\nL211A",
+      "Time": "EVANS NGUMO\r\nBMK 311 consumer behavior\r\nONLINE"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "SAMUEL CHEGE BHR 311 organisational behavior\r\nA203"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "NELLIE NGANGA\r\nBCT 323 Electronic commerce\r\nA103"
+    },
+    {
+      "Unit Code": "BBAM Y3S2 ACCOUNTING"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "JANE MWINGA BBM 323 quality control methods\r\nL207",
+      "Time": "SAMUEL KARIUKI\r\nBAC 322 advanced auditing\r\nONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "DAMARIS WANGUI\r\nBAC 321 principles of taxation\r\nL205"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "ANDREW NDEGE BAC 323 management accounting II\r\nL210"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "AGNES WAGENI\r\nBBM 321 international business management\r\nL003",
+      "Time": "DR. LYDIA PKAREMBA BCU 320 research methods A401"
+    },
+    {
+      "Unit Code": "BBAM Y3S2 FINANCE"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "SAMUEL MUCHORI\r\nBFN 321 financial statement analysis\r\nL211B"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "JANE MWINGA BBM 323 quality control methods\r\nL207"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "DAMARIS WANGUI\r\nBAC 321 principles of taxation\r\nL205",
+      "Time": "CATHERINE KURIA\r\nBFN 322 financial institutions and markets\r\nL213"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "AGNES WAGENI\r\nBBM 321 international business management L003",
+      "Time": "DR. LYDIA PKAREMBA BCU 320 research methods A401"
+    },
+    {
+      "Unit Code": "BBAM Y3S2 HUMAN RESOURCES"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "MONICA MBUGUA BHR 321 human resource training and development ONLINE",
+      "Day": "JANE MWINGA BBM 323 quality control methods\r\nL207"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "DAMARIS WANGUI\r\nBAC 321 principles of taxation\r\nL205",
+      "Time": "SAMUEL CHEGE\r\nBHR 322 strategic human resource management ONLINE"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "AGNES WAGENI\r\nBBM 321 international business management\r\nL003",
+      "Time": "DR. LYDIA PKAREMBA BCU 320 research methods A401"
+    },
+    {
+      "Unit Code": "BBAM Y3S2 MARKETING"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "AGNES WAGENI\r\nBMK 322 product and brand management ONLINE",
+      "Day": "JANE MWINGA BBM 323 quality control methods\r\nL207"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "DAMARIS WANGUI\r\nBAC 321 principles of taxation\r\nL205"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "EVANS NGUMO\r\nBMK 321 marketing research\r\nONLINE",
+      "Day": "AGNES WAGENI\r\nBBM 321 international business management L003",
+      "Time": "DR. LYDIA PKAREMBA BCU 320 research methods A401"
+    },
+    {
+      "Unit Code": "BBAM Y4S1 ACCOUNTING"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "NELLIE NGANGA BAC 123 Introduction to Computerised Business Accounting\r\nA202 LAB"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "SAMUEL KARIUKI BFN 410 company law ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "DAMARIS WANGUI BAC 412 advanced taxation L308"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "SAMUEL MUCHORI BAC 411 financial reporting ONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "DR. BETH MBORE\r\nBCU 410 Entreprenuership and\r\nInnovation A401"
+    },
+    {
+      "Unit Code": "BBAM Y4S1 FINANCE"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "SAMUEL KARIUKI BFN 410 company law ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "SAMUEL KARIUKI\r\nBFN 412 monetary theory and practice A103",
+      "Day": "ANDREW NDEGE\r\nBFN 411 valuation and analysis of securities ONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Time": "ANDREW NDEGE\r\nBFN 413 investment analysis and portfolio management L003"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "DR. BETH MBORE\r\nBCU 410 Entreprenuership and\r\nInnovation A401"
+    },
+    {
+      "Unit Code": "BBAM Y4S1 HUMAN RESOURCES"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "SAMUEL KARIUKI BFN 410 company law ONLINE",
+      "Time": "DR. LYDIA PKAREMBA BEC 413 labour economics ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "SAMUEL CHEGE\r\nBHR 411 performance and reward management ONLINE"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "DR. BETH MBORE\r\nBCU 410 Entreprenuership and\r\nInnovation A401",
+      "Day": "BRENDA GAKII\r\nBHR 412 cross cultural and diversity management ONLINE"
+    },
+    {
+      "Unit Code": "BBAM Y4S1 MARKETING"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "SAMUEL KARIUKI BFN 410 company law ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Time": "EVANS NGUMO BMK 412 international marketing\r\nONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "EVANS NGUMO BMK 413 marketing communication ONLINE",
+      "Day": "AGNES WAGENI\r\nBMK 411 strategic marketing management ONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "DR. BETH MBORE\r\nBCU 410 Entreprenuership and\r\nInnovation A401"
+    },
+    {
+      "Unit Code": "BBAM Y4S2 ACCOUNTING"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "PHILIP OCHARO\r\nBAC 422 Forencis Accounting\r\nONLINE",
+      "Time": "RAPHAEL MPUTHIA BBM 325 strategic management\r\nL209"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "SAMUEL MBUGUA BAC 425 trust and executorships accounting ONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "RAPHAEL MPUTHIA BBM 421 Professional Ethics and Etiquette\r\nONLINE"
+    },
+    {
+      "Unit Code": "BBAM Y4S2 FINANCE"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "PHILIP OCHARO BFN 422 Financial Law ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Time": "RAPHAEL MPUTHIA BBM 325 strategic management\r\nL209"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Time": "SAMUEL KARIUKI BFN 423 public finance L307"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "RAPHAEL MPUTHIA BBM 421 Professional Ethics and Etiquette\r\nONLINE"
+    },
+    {
+      "Unit Code": "BBAM Y4S2 HUMAN RESOURCE"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "SAMUEL CHEGE\r\nBHR 414 contemporary issues in human resource management ONLINE",
+      "Time": "BRENDA GAKII\r\nBHR 422 retirement and benefit\r\nONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Time": "RAPHAEL MPUTHIA BBM 325 strategic management\r\nL209"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "RAPHAEL MPUTHIA BBM 421 Professional Ethics and Etiquette\r\nONLINE"
+    },
+    {
+      "Unit Code": "BBAM Y4S2 MARKETING"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "EVANS NGUMO\r\nBMK 422 services marketing\r\nONLINE",
+      "Time": "EVANS NGUMO\r\nBMK 423 industrial marketing\r\nONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Time": "RAPHAEL MPUTHIA BBM 325 strategic management\r\nL209"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "RAPHAEL MPUTHIA BBM 421 Professional Ethics and Etiquette\r\nONLINE"
+    },
+    {
+      "Unit Code": "BAF Y1S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "SAMUEL MBUGUA\r\nBAC 111 financial accounting 1\r\nL209"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "FLORA MWANJA\r\nBCU 111 Communication Skills\r\nONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "BONFACE MUNENE BEC 111 Microeconomics L209",
+      "Day": "DAVID GICHOHI BCU 112 Digital Literacy A401",
+      "Time": "DAVID CHEPKONGA MAT 111 basic mathematics A401"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "RAPHAEL MPUTHIA BBM 111 Foundations of Business Studies\r\nL205",
+      "Time": "BCU 113 Health and Wellness\r\nManagement SELF PACED LEARNING"
+    },
+    {
+      "Unit Code": "BAF Y1S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "DAMARIS WANGUI BFN 121 introduction to financial management L005"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "RAPHAEL MPUTHIA BBM 121 principles of management ONLINE",
+      "Time": "SAMUEL MBUGUA\r\nBAC 121 financial accounting II L206"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "DAMARIS WANGUI\r\nBAC 321 principles of taxation\r\nL205"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "BONFACE MUNENE BEC 121 Macroeconomics L212"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "CATHERINE KURIA BFN 211 business law ONLINE"
+    },
+    {
+      "Unit Code": "BAF Y2S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "DAMARIS WANGUI\r\nBAC 312 accounting for assets\r\nL212",
+      "Time": "SAMUEL KARIUKI\r\nBAC 316 principles of auditing\r\nONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "DAMARIS WANGUI BFN 212 financial management L205",
+      "Day": "JAMES MINCHA\r\nBAC 212 cost accounting\r\nL211B",
+      "Time": "PHILIP OCHARO\r\nBFN 213 Islamic Banking and\r\nFinance\r\nONLINE"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "DANIEL IRERI\r\nMAT 214 business statistics I L209"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "BAF Y2S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "JAMES MINCHA BAC 221 management accounting I\r\nL203",
+      "Time": "SAMUEL MUCHORI\r\nBFN 321 financial statement analysis\r\nL211B"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "SAMUEL KARIUKI BFN 410 company law ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "SAMUEL KARIUKI\r\nBFN 412 monetary theory and practice A103",
+      "Time": "CATHERINE KURIA\r\nBFN 322 financial institutions and markets L213"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Time": "ANDREW NDEGE\r\nBFN 311 international finance\r\nL308"
+    },
+    {
+      "Unit Code": "BAF Y3S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "CATHERINE KURIA\r\nBFN 315 development finance\r\nL207"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "JAMES MINCHA\r\nBFN 313 financial modeling and forecasting ONLINE",
+      "Day": "DAMARIS WANGUI\r\nBAC 321 principles of taxation\r\nL205",
+      "Time": "PHILIP OCHARO\r\nBAC 313 Advanced Financial\r\nAccounting I L211A"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "SAMUEL MUCHORI BAC 315 public sector accounting\r\nL212",
+      "Day": "ANDREW NDEGE BFN 314 microenterprise finance\r\nL120",
+      "Time": "DR. LYDIA PKAREMBA BCU 320 research methods A401"
+    },
+    {
+      "Unit Code": "BAF Y3S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "NELLIE NGANGA BAC 123 Introduction to Computerised Business Accounting\r\nA202 LAB"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "DAMARIS WANGUI BAC 412 advanced taxation L308"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Time": "ANDREW NDEGE\r\nBFN 413 investment analysis and portfolio management L003"
+    },
+    {
+      "Unit Code": "Friday",
+      "Time": "SAMUEL MUCHORI\r\nBAC 324 Advanced Financial\r\nAccounting II A103"
+    },
+    {
+      "Unit Code": "BAF Y4S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "JAMES MINCHA BAC 414 specialized accounting\r\nL210"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "SAMUEL MBUGUA\r\nBFN 414 real estate finance\r\nL307",
+      "Time": "SAMUEL KARIUKI\r\nBAC 322 advanced auditing\r\nONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "DANIEL IRERI\r\nMAT 222 business statistics 2\r\nL212",
+      "Day": "CATHERINE KURIA BFN 221 financial risk management\r\nL006"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "DR. BETH MBORE\r\nBCU 410 Entreprenuership and\r\nInnovation A401"
+    },
+    {
+      "Unit Code": "BAF Y4S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "SAMUEL MUCHORI\r\nBFN 425 contemporary issues in financial management A401"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "JAMES MINCHA\r\nBAC 311 management decision models L211A",
+      "Day": "PHILIP OCHARO BFN 424 financial asset management L003"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "ANDREW NDEGE BAC 323 management accounting II\r\nL210"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "BAJ Y1S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "MARY NYAMAINGI BJO 112 Media and Society L205"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "FLORA MWANJA\r\nBCU 111 Communication Skills\r\nONLINE",
+      "Day": "LEONA CHEMUTAI\r\nBJO 111 English For Journalists\r\nL308"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "MOLLIE ACHIENG\r\nBAJ 110 Introduction to\r\nJournalism L307",
+      "Day": "DAVID GICHOHI BCU 112 Digital Literacy A401"
+    },
+    {
+      "Unit Code": "Friday",
+      "Time": "BCU 113 Health and Wellness\r\nManagement\r\nSELF PACED LEARNING"
+    },
+    {
+      "Unit Code": "BAJ Y2S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "MARY NYAMAINGI BAV 223 Principles of Advertising ONLINE",
+      "Time": "DR. AGNES WANJAU BAJ 223 Sign Language L004"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "LEONA CHEMUTAI\r\nBPR 220 Principles of Public\r\nRelations ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "JOSPHAT GITHUA\r\nBAJ 222 Broadcast Production\r\nL210"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "DORA AKINYI BAJ 220 Writing for Print\r\nL206"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "PHILIP NJORE\r\nBAJ 221 Journalism Ethics L207"
+    },
+    {
+      "Unit Code": "BAJ Y3S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "FLORA MWANJA BJO 310 Communication Research\r\nONLINE"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "MOLLIE ACHIENG\r\nBAJ 312 Conflicting Reporting and Peace Journalism ONLINE",
+      "Day": "SHEILA KIROTWA BAJ 311 Audio and Video Production Editing Suite"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "MARY NYAMAINGI BJO 312 Audience Analysis ONLINE",
+      "Time": "CALEB RATEMO\r\nBAJ 313 Information Sourcing and Management in Communication L118"
+    },
+    {
+      "Unit Code": "Friday",
+      "Time": "MARY NYAMAINGI\r\nBAJ 310 Media Management L120"
+    },
+    {
+      "Unit Code": "BAJ Y3S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "ELSIE OCHIENG BAJ 321 Educational Broadcasting\r\nL005"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "ELSIE OCHIENG BAJ 324 Lighting Techniques\r\nL212",
+      "Day": "SHEILA KIROTWA BAJ 322 Multimedia Storytelling ONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "MARY NYAMAINGI BAJ 323 Broadcast News Production\r\nL210",
+      "Day": "DR. NYASHA BAJ 320 Critical Writing and Reviewing ONLINE",
+      "Time": "DR. LYDIA PKAREMBA BCU 320 research methods A401"
+    },
+    {
+      "Unit Code": "BAJ Y4S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "PHILIP NJORE BAJ 413 Editorial Writing L005"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "PHILIP NJORE\r\nBAJ 412 Newspaper and Magazine Production L207",
+      "Time": "ELSIE OCHIENG BJO 410 Documentary Production\r\nL004"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "ELSIE OCHIENG BJO 410 Documentary Production\r\nL307",
+      "Time": "DR. SIMON CHEGE BAJ 411 Science and Technology Reporting ONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "DR. BETH MBORE BCU 410 Entreprenuership and\r\nInnovation\r\nA401",
+      "Time": "JOSPHAT GITHUA BAJ 410 Broadcasting Programming\r\nL003"
+    },
+    {
+      "Unit Code": "BAJ Y4S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "DR. NYASHA\r\nBAJ 425 Investigative and Interpretative Reporting ONLINE",
+      "Day": "PHILIP NJORE\r\nBAJ 422 Safety and Protection of Journalists ONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Time": "ELSIE OCHIENG BAJ 420 Digital Broadcasting\r\nL210"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "JOSPHAT GITHUA\r\nBAJ 421 Studio and Broadcasting\r\nTechnology Operations L308",
+      "Day": "PHILIP NJORE\r\nBJO 423 Data Journalism L307"
+    },
+    {
+      "Unit Code": "BBIT Y1S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "FLORA MWANJA\r\nBCU 111 Communication Skills\r\nONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Time": "NICHOLAS MURIUKI BSD 111 Structured Programming And Algorithms ICT 1"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Time": "DAVID CHEPKONGA MAT 111 basic mathematics A401"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "BONFACE MUNENE BEC 111 Microeconomics L209",
+      "Day": "DAVID GICHOHI BCU 112 Digital Literacy A401"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "RAPHAEL MPUTHIA BBM 111 Foundations of Business Studies\r\nL205",
+      "Time": "BCU 113 Health and Wellness\r\nManagement\r\nSELF PACED LEARNING"
+    },
+    {
+      "Unit Code": "BBIT Y1S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "MIRRIAM KAARA BSD 121 Software Design Methods and Architectures L210"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "SAMUEL MBUGUA\r\nBAC 111 financial accounting 1\r\nL209",
+      "Day": "RAPHAEL MPUTHIA BBM 121 principles of management ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "NICHOLAS MURIUKI BCT 121 operating systems ONLINE",
+      "Time": "DAVID CHEPKONGA MAT 111 basic mathematics A401"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "GEORGE WAINAINA BSD 122 object oriented programming 1 ICT 1"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "CATHERINE KURIA BFN 211 business law ONLINE"
+    },
+    {
+      "Unit Code": "BBIT Y2S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "FREDRICK OCHIENG BSD 213 Object Oriented Software Design Methods ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "JAMES MINCHA\r\nBAC 212 cost accounting L211B",
+      "Time": "NELLIE NGANGA BDM 121 Database Management Systems A202 LAB"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Time": "MOHABE CHACHA\r\nBCE 214 computer graphics\r\nA103"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "DUNCAN KEREU BSD 313 Internet Programming I A202 LAB",
+      "Day": "DANIEL IRERI\r\nMAT 214 business statistics I L209",
+      "Time": "GEORGE WAINAINA BSD 214 object oriented programming 2\r\nA202 LAB"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "BBIT Y2S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "EMMA WAMAITHA\r\nBCE 121 computer organization and architecture ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "MIRRIAM KAARA\r\nBCT 221 Business Process Modelling ONLINE",
+      "Day": "RICHARD MATHENGE\r\nBNT 221 Data Communication and Computer Networks I L204"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "MOHABE CHACHA\r\nBSD 224 Multimedia Systems and Applications A303 LAB",
+      "Time": "DR. CHARLES KIHUNGI BSD 322 Internet Programming II A303 LAB"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "BONFACE MUNENE BEC 121 Macroeconomics L212"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "NELLIE NGANGA BDM 222 advanced database management systems A303 LAB"
+    },
+    {
+      "Unit Code": "BBIT Y3S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "SAMUEL MBUGUA MAT 221 quantitative techniques\r\nL205",
+      "Time": "SAMUEL KARIUKI\r\nBAC 316 principles of auditing\r\nONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "NICHOLAS MURIUKI\r\nBCE 312 Artificial Intelligence\r\nA002"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "DANIEL NJERU\r\nBSD 315 Software Engineering\r\nONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "KNOWEN COSMAS\r\nBCT 321 research methods and\r\nTechnical Writing ONLINE",
+      "Day": "SAMUEL CHEGE BHR 311 organisational behavior\r\nA203",
+      "Time": "FREDRICK OCHIENG BCT 412 Computer And Cyber\r\nSecurity A203"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "BBIT Y3S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "CATHERINE KURIA BFN 221 financial risk management\r\nL006"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "DAVID CHEPKONGA BSD 311 Simulation and Modelling\r\nONLINE",
+      "Time": "DR. JOY KIBOR BCT 322 IT Project Management ONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "MIRRIAM KAARA\r\nBSD 223 Mobile Computing\r\nL211A/L211B",
+      "Day": "NELLIE NGANGA\r\nBCT 323 Electronic commerce\r\nA103",
+      "Time": "DANIEL NJERU\r\nBSD 321 User Centered Design\r\nONLINE"
+    },
+    {
+      "Unit Code": "BBIT Y4S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "BONFACE MUNENE BEC 421 Industrial and Production Economics ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "SAMUEL MAINA\r\nBSD 411 Business Intelligence and analytics ONLINE",
+      "Time": "NICHOLAS MURIUKI BCT 415 Project Proposal ONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "MOHABE CHACHA BCE 412 Machine Learning L205",
+      "Day": "FREDRICK OCHIENG BCT 414 Information Systems Audit and Assurance A104"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "DR. BETH MBORE BCU 410 Entreprenuership and\r\nInnovation\r\nA401"
+    },
+    {
+      "Unit Code": "BBIT Y4S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "NICHOLAS MURIUKI BCT 425 Final Project ONLINE",
+      "Time": "DR. JOY KIBOR\r\nBCT 423 Management Information Systems ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Time": "RAPHAEL MPUTHIA BBM 325 strategic management\r\nL209"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "DR. CATHERINE NJOKI BMK 221 principles of marketing\r\nA103",
+      "Time": "DANIEL NJERU\r\nBDM 311 Data Mining and Warehousing ONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "RAPHAEL MPUTHIA BBM 421 Professional Ethics and Etiquette\r\nONLINE"
+    },
+    {
+      "Unit Code": "BCOM Y1S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "SAMUEL MBUGUA\r\nBAC 111 financial accounting 1\r\nL209"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "FLORA MWANJA\r\nBCU 111 Communication Skills\r\nONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "BONFACE MUNENE BEC 111 Microeconomics L209",
+      "Day": "DAVID GICHOHI BCU 112 Digital Literacy A401",
+      "Time": "DAVID CHEPKONGA MAT 111 basic mathematics A401"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "RAPHAEL MPUTHIA BBM 111 Foundations of Business Studies\r\nL205",
+      "Time": "BCU 113 Health and Wellness\r\nManagement SELF PACED LEARNING"
+    },
+    {
+      "Unit Code": "BCOM Y1S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "DAMARIS WANGUI BFN 121 introduction to financial management L005",
+      "Time": "SAMUEL KARIUKI\r\nBAC 316 principles of auditing\r\nONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "RAPHAEL MPUTHIA BBM 121 principles of management ONLINE",
+      "Time": "SAMUEL MBUGUA\r\nBAC 121 financial accounting II L206"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "DAMARIS WANGUI\r\nBAC 321 principles of taxation\r\nL205"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "BONFACE MUNENE BEC 121 Macroeconomics L212"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "BCOM Y2S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "DAMARIS WANGUI\r\nBAC 312 accounting for assets\r\nL212",
+      "Time": "DR. JOY KIBOR\r\nBCT 423 Management Information Systems ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "DAMARIS WANGUI BFN 212 financial management L205",
+      "Day": "JAMES MINCHA\r\nBAC 212 cost accounting\r\nL211B"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "DAMARIS WANGUI\r\nBAC 321 principles of taxation\r\nL205"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "DR. CATHERINE NJOKI BMK 221 principles of marketing\r\nA103"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "CATHERINE KURIA BFN 211 business law ONLINE"
+    },
+    {
+      "Unit Code": "BCOM Y2S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "DAMARIS WANGUI BFN 212 financial management L205"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "ANDREW NDEGE BAC 222 accounting for equities and liabilities ONLINE",
+      "Time": "CATHERINE KURIA\r\nBFN 322 financial institutions and markets\r\nL213"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "SAMUEL CHEGE BHR 121 human resource management\r\nL210",
+      "Day": "DANIEL IRERI\r\nMAT 214 business statistics I L209"
+    },
+    {
+      "Unit Code": "Friday",
+      "Time": "AGNES WAGENI\r\nBBM 213 insurance and risk management\r\nL212"
+    },
+    {
+      "Unit Code": "BCOM Y3S1 ACCOUNTING"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "NELLIE NGANGA BAC 123 Introduction to Computerised Business Accounting\r\nA202 LAB"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Time": "SAMUEL KARIUKI\r\nBAC 322 advanced auditing\r\nONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "SAMUEL KARIUKI\r\nBFN 412 monetary theory and practice A103",
+      "Time": "PHILIP OCHARO\r\nBAC 313 Advanced Financial\r\nAccounting I L211A"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "SAMUEL CHEGE BHR 311 organisational behavior\r\nA203"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "DR. WYCLIFFE ARANI BPS 110 supply chain management ONLINE",
+      "Day": "AGNES WAGENI\r\nBBM 321 international business management\r\nL003",
+      "Time": "DR. LYDIA PKAREMBA BCU 320 research methods A401"
+    },
+    {
+      "Unit Code": "BCOM Y3S1 FINANCE"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "CATHERINE KURIA BFN 315 development finance L207"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "SAMUEL KARIUKI\r\nBFN 412 monetary theory and practice A103",
+      "Day": "ANDREW NDEGE\r\nBFN 411 valuation and analysis of securities ONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "SAMUEL CHEGE BHR 311 organisational behavior\r\nA203",
+      "Time": "ANDREW NDEGE BFN 413 investment analysis and portfolio management L003"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "DR. WYCLIFFE ARANI BPS 110 supply chain management ONLINE",
+      "Day": "AGNES WAGENI BBM 321 international business management\r\nL003",
+      "Time": "DR. LYDIA PKAREMBA BCU 320 research methods A401"
+    },
+    {
+      "Unit Code": "BCOM Y3S1 HUMAN RESOURCE"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "SAMUEL CHEGE BHR 313 employee and industrial relations ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "MONICA MBUGUA BHR 321 human resource training and development ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "SAMUEL KARIUKI\r\nBFN 412 monetary theory and practice A103",
+      "Time": "RAPHAEL MPUTHIA\r\nBBM 312 Public Relations and Customer Management ONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "SAMUEL CHEGE BHR 311 organisational behavior\r\nA203"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "DR. WYCLIFFE ARANI BPS 110 supply chain management ONLINE",
+      "Day": "AGNES WAGENI BBM 321 international business management\r\nL003",
+      "Time": "DR. LYDIA PKAREMBA BCU 320 research methods A401"
+    },
+    {
+      "Unit Code": "BCOM Y3S1 MARKETING"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "EVANS NGUMO BMK 423 industrial marketing ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Time": "EVANS NGUMO\r\nBMK 311 consumer behavior\r\nONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "SAMUEL KARIUKI\r\nBFN 412 monetary theory and practice A103",
+      "Time": "EVANS NGUMO BMK 412 international marketing\r\nONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "SAMUEL CHEGE BHR 311 organisational behavior\r\nA203"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "DR. WYCLIFFE ARANI BPS 110 supply chain management ONLINE",
+      "Day": "AGNES WAGENI BBM 321 international business management\r\nL003",
+      "Time": "DR. LYDIA PKAREMBA BCU 320 research methods A401"
+    },
+    {
+      "Unit Code": "BCOM Y3S2 ACCOUNTING"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "JAMES MINCHA BAC 221 management accounting I\r\nL203",
+      "Time": "SAMUEL MUCHORI BFN 321 financial statement analysis\r\nL211B"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Time": "AGNES WAGENI BBM 324 total quality management\r\nL211B"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "RAPHAEL MPUTHIA MAT 311 operations research ONLINE",
+      "Time": "SAMUEL KARIUKI BFN 423 public finance L307"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "SAMUEL MUCHORI BAC 315 public sector accounting\r\nL212",
+      "Day": "NELLIE NGANGA\r\nBCT 323 Electronic commerce A103"
+    },
+    {
+      "Unit Code": "BCOM Y3S2 FINANCE"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "CATHERINE KURIA BFN 312 corporate finance L006"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Time": "AGNES WAGENI BBM 324 total quality management\r\nL211B"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "JAMES MINCHA\r\nBFN 313 financial modeling and forecasting ONLINE",
+      "Day": "RAPHAEL MPUTHIA MAT 311 operations research ONLINE",
+      "Time": "SAMUEL KARIUKI BFN 423 public finance L307"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "SAMUEL MUCHORI BAC 315 public sector accounting\r\nL212",
+      "Day": "NELLIE NGANGA\r\nBCT 323 Electronic commerce A103"
+    },
+    {
+      "Unit Code": "BCOM Y3S2 HUMAN RESOURCE"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "SAMUEL CHEGE BHR 312 labor laws ONLINE",
+      "Time": "AGNES WAGENI BBM 324 total quality management\r\nL211B"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "SAMUEL CHEGE\r\nBHR 411 performance and reward management ONLINE",
+      "Day": "RAPHAEL MPUTHIA MAT 311 operations research ONLINE",
+      "Time": "SAMUEL KARIUKI BFN 423 public finance L307"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "SAMUEL MUCHORI BAC 315 public sector accounting\r\nL212",
+      "Day": "NELLIE NGANGA\r\nBCT 323 Electronic commerce A103"
+    },
+    {
+      "Unit Code": "BCOM Y3S2 MARKETING"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "EVANS NGUMO\r\nBMK 422 services marketing\r\nONLINE",
+      "Day": "EVANS NGUMO\r\nBMK 312 sales management\r\nONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Time": "AGNES WAGENI BBM 324 total quality management\r\nL211B"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "RAPHAEL MPUTHIA MAT 311 operations research ONLINE",
+      "Time": "SAMUEL KARIUKI BFN 423 public finance L307"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "SAMUEL MUCHORI BAC 315 public sector accounting\r\nL212",
+      "Day": "NELLIE NGANGA\r\nBCT 323 Electronic commerce\r\nA103"
+    },
+    {
+      "Unit Code": "BCOM Y4S1 ACCOUNTING"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "SAMUEL KARIUKI BFN 410 company law ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "DAMARIS WANGUI BAC 412 advanced taxation L308"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "SAMUEL MUCHORI BAC 411 financial reporting ONLINE",
+      "Day": "SAMUEL MBUGUA BAC 425 trust and executorships accounting ONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "BRENDA GAKII\r\nBHR 413 work place counseling\r\nONLINE"
+    },
+    {
+      "Unit Code": "BCOM Y4S1 FINANCE"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "PHILIP OCHARO BFN 415 pension finance ONLINE",
+      "Time": "PHILIP OCHARO\r\nBFN 416 Project Appraisal\r\nONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "SAMUEL KARIUKI BFN 410 company law ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "CATHERINE KURIA BFN 221 financial risk management\r\nL006"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "BRENDA GAKII\r\nBHR 413 work place counseling\r\nONLINE"
+    },
+    {
+      "Unit Code": "BCOM Y4S1 HUMAN RESOURCE"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "SAMUEL CHEGE\r\nBHR 414 contemporary issues in human resource management ONLINE",
+      "Day": "BRENDA GAKII\r\nBHR 410 reward management\r\nONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "SAMUEL KARIUKI BFN 410 company law ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Time": "SAMUEL CHEGE\r\nBHR 322 strategic human resource management ONLINE"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "BRENDA GAKII\r\nBHR 413 work place counseling\r\nONLINE"
+    },
+    {
+      "Unit Code": "BCOM Y4S1 MARKETING"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "MARY NYAMAINGI BAV 223 Principles of Advertising ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "SAMUEL KARIUKI BFN 410 company law ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "EVANS NGUMO BMK 413 marketing communication ONLINE",
+      "Day": "AGNES WAGENI BMK 411 strategic marketing management ONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "BRENDA GAKII\r\nBHR 413 work place counseling ONLINE"
+    },
+    {
+      "Unit Code": "BCOM Y4S2 ACCOUNTING"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "PHILIP OCHARO BFN 424 financial asset management L003",
+      "Time": "RAPHAEL MPUTHIA BBM 325 strategic management\r\nL209"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "ANDREW NDEGE BAC 323 management accounting II\r\nL210"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "DR. BETH MBORE BCU 410 Entreprenuership and\r\nInnovation\r\nA401",
+      "Day": "ANDREW NDEGE BFN 314 microenterprise finance\r\nL120",
+      "Time": "SAMUEL MUCHORI BAC 324 Advanced Financial\r\nAccounting II A103"
+    },
+    {
+      "Unit Code": "BCOM Y4S2 FINANCE"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "SAMUEL MUCHORI BFN 425 contemporary issues in financial management A401"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "SAMUEL MBUGUA\r\nBFN 414 real estate finance\r\nL307",
+      "Time": "RAPHAEL MPUTHIA BBM 325 strategic management\r\nL209"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "DR. BETH MBORE BCU 410 Entreprenuership and\r\nInnovation\r\nA401",
+      "Day": "ANDREW NDEGE BFN 314 microenterprise finance\r\nL120",
+      "Time": "ANDREW NDEGE\r\nBFN 311 international finance L308"
+    },
+    {
+      "Unit Code": "BCOM Y4S2 HUMAN RESOURCE"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "SAMUEL CHEGE\r\nBHR 423 Procurement of Human Resources ONLINE",
+      "Time": "RAPHAEL MPUTHIA BBM 325 strategic management\r\nL209"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "DR. BETH MBORE\r\nBCU 410 Entreprenuership and\r\nInnovation A401",
+      "Day": "ANDREW NDEGE BFN 314 microenterprise finance\r\nL120"
+    },
+    {
+      "Unit Code": "BCOM Y4S2 MARKETING"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "EVANS NGUMO\r\nBMK 420 Strategic Marketing Environment ONLINE",
+      "Time": "RAPHAEL MPUTHIA BBM 325 strategic management\r\nL209"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "AGNES WAGENI BMK 421 Marketing Management ONLINE",
+      "Time": "EVANS NGUMO BMK 424 Marketing Logistics\r\nONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "DR. BETH MBORE BCU 410 Entreprenuership and\r\nInnovation\r\nA401",
+      "Day": "ANDREW NDEGE BFN 314 microenterprise finance\r\nL120"
+    },
+    {
+      "Unit Code": "BHTM Y1S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "LEONA CHEMUTAI  BCU  111 Communication Skills  ONLINE",
+      "Time": "MARK MASEMBO\r\nBFR 101 French Language 1\r\nA203"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "MERCY MUGAMBI\r\nBHM 113 Food Service Theory\r\nA104",
+      "Time": "KNOWEN COSMAS BCU 112 Digital Literacy L204"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "AGNES KARANJA BHM 112 Food Production Theory\r\nL204"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Time": "BILHAH GITAU BTM 111 Introduction to Hospitality and Tourism A103"
+    },
+    {
+      "Unit Code": "Friday",
+      "Time": "BCU 113 Health and Wellness\r\nManagement SELF PACED LEARNING"
+    },
+    {
+      "Unit Code": "BHTM Y2S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "MERCY MUGAMBI BHM 213 Food and Beverage Service Practice II RESTAURANT"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "SAMUEL MBUGUA\r\nBAC 111 financial accounting 1\r\nL209",
+      "Day": "BILHAH GITAU\r\nBTM 214 Tourism Geography\r\nONLINE"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "MARK MASEMBO\r\nBFR  201 Intermediate French I HouseKeeping",
+      "Day": "MERCY  MUGAMBI BHM 211 Housekeeping and Laundry Operations HouseKeeping"
+    },
+    {
+      "Unit Code": "Friday",
+      "Time": "JOHN MUNYI\r\nBHM 212 Food and Beverage Production Practice II KITCHEN"
+    },
+    {
+      "Unit Code": "BHTM Y2S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "EDITH MUTHIKE\r\nBTM 221 Cultural and Heritage\r\nTourism L203"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "JOHN MUNYI\r\nBHM 224 Bar Operations\r\nManagement L210",
+      "Day": "RAPHAEL MPUTHIA BBM 121 principles of management ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "VERONICA KAMAU\r\nBHM 222 Food And Beverage Production Practice III KITCHEN",
+      "Day": "MERCY MUGAMBI\r\nBHM 223 Food and Beverage Service Practice RESTAURANT"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Time": "MARK MASEMBO\r\nBFR 202 Intermediate French\r\nII L211B"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "BHTM Y3S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "MERCY MUGAMBI BHM 323 Food And Beverage Service Management RESTAURANT"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "SAMUEL CHEGE BHR 121 human resource management L210",
+      "Day": "DANIEL IRERI\r\nMAT 214 business statistics I L209"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "EDITH MUTHIKE BTM 322 Wildlife Based Tourism Management L006",
+      "Day": "JOHN MUNYI\r\nBHM 321 Food and Beverage\r\nCost Control L210",
+      "Time": "DR. LYDIA PKAREMBA BCU 320 research methods A401"
+    },
+    {
+      "Unit Code": "BHTM Y4S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "EDITH MUTHIKE BTM 413 Sustainable Tourism L211B",
+      "Time": "AGNES KARANJA BTM 412 Marketing In Hospitality And Tourism ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Time": "JOHN MUNYI BTM 415 Destination Management\r\nL212"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "BILHAH GITAU BTM 414 Legal Aspects In Hospitality And Tourism L308",
+      "Day": "EDITH MUTHIKE BTM 411 Coastal And Marine\r\nTourism\r\nL308"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "DR. BETH MBORE BCU 410 Entreprenuership and\r\nInnovation\r\nA401"
+    },
+    {
+      "Unit Code": "BHTM Y4S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "JOHN MUNYI BHM 423 Property Management L005",
+      "Time": "RAPHAEL MPUTHIA BBM 325 strategic management\r\nL209"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "SAMUEL CHEGE BHR 311 organisational behavior\r\nA203"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "BIRD Y1S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "FLORA MWANJA\r\nBCU 111 Communication Skills\r\nONLINE",
+      "Time": "PAUL MIMANO BIRD 111 Introduction to International Relations L209"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Time": "KNOWEN COSMAS BCU 112 Digital Literacy L204"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "MARK ODUOR\r\nBIRD 112 Basic Concepts in\r\nGovernment L204"
+    },
+    {
+      "Unit Code": "Friday",
+      "Time": "BCU 113 Health and Wellness\r\nManagement\r\nSELF PACED LEARNING"
+    },
+    {
+      "Unit Code": "BIRD Y2S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "SOLOMON KIMAITA BIRD 223 Africa and Contemporary World Order A002",
+      "Time": "KURIA KANYINGI\r\nBIRD 225 International Civil\r\nRights A103"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "BENEDICT ARWA BIRD 221 Introduction to International Law\r\nA103",
+      "Day": "STEVE KORIR BIRD 222 Geo-political Structure of the World A203"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "ABEL CHERUIYOT BIRD 224 International Relations in the 21st Century A002",
+      "Day": "MARK ODUOR\r\nBIRD 226 Negotiations and\r\nArbitration A203"
+    },
+    {
+      "Unit Code": "BIRD Y4S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "DR. STELLA WASIKE BIRD 422 Public International Law\r\nONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "PAUL MIMANO BIRD 425 The Politics of Multinational Corporations ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "ABEL CHERUIYOT BIRD 423 Strategic and National Security Studies ONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "SOLOMON KIMAITA\r\nBIRD 424 Regional Integration in Africa ONLINE",
+      "Time": "MARK ODUOR\r\nBIRD 421 Trends in Diplomatic\r\nRelations\r\nONLINE"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "BMDC Y1S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "MARY NYAMAINGI BJO 112 Media and Society L205"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "FLORA MWANJA\r\nBCU 111 Communication Skills\r\nONLINE",
+      "Day": "LEONA CHEMUTAI\r\nBJO 111 English For Journalists\r\nL308"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "DR. SIMON CHEGE\r\nBJO 110 Introduction to Mass\r\nCommunication L203",
+      "Day": "DAVID GICHOHI BCU 112 Digital Literacy A401"
+    },
+    {
+      "Unit Code": "Friday",
+      "Time": "BCU 113 Health and Wellness\r\nManagement\r\nSELF PACED LEARNING"
+    },
+    {
+      "Unit Code": "BMDC Y2S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "DR. SIMON CHEGE BJO 213 Intercative Media Design\r\nA304 LAB",
+      "Day": "DR. JAMES KARORI\r\nERE 111 introduction to creative and critical thinking ONLINE",
+      "Time": "PHILIP NJORE\r\nBJO 212 Online Resources for Mass Communication L203"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "PAUL NYARURI BPSY 216 Psychology of Communication ONLINE",
+      "Day": "DR. SIMON CHEGE\r\nBJO 210 Fundamentals of Web\r\nAnalytics A304 LAB",
+      "Time": "PAUL NYARURI\r\nBJO 211 Digital Media Law Ethics and Human Rights L006"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "BMDC Y2S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "MARY NYAMAINGI BAV 223 Principles of Advertising ONLINE",
+      "Time": "PHILIP NJORE BPR 221 Writing for Print\r\nMedia\r\nL307"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "LEONA CHEMUTAI\r\nBPR 220 Principles of Public\r\nRelations ONLINE",
+      "Time": "LEONA CHEMUTAI BJO 224 Communication Theories\r\nONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "FLORA MWANJA\r\nBJO 225 Gender Issues in Communication ONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "DORA AKINYI BAJ 220 Writing for Print\r\nL206",
+      "Day": "MARY NYAMAINGI BJO 222 Broadcast Journalism\r\nL211B"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "BMDC Y3S1 PUBLIC RELATIONS"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "FLORA MWANJA BJO 310 Communication Research\r\nONLINE",
+      "Day": "ELSIE OCHIENG BJO 311 Video Production and\r\nEditing\r\nL004"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "FLORA MWANJA\r\nBPR 311 Digital Public Relations\r\nL207",
+      "Day": "PAUL NYARURI\r\nBPR 312 Strategic Public\r\nRelations\r\nL006"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "MARY NYAMAINGI BJO 312 Audience Analysis ONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Time": "SHEILA KIROTWA BPR 310 Writing for Public\r\nRelations\r\nL206"
+    },
+    {
+      "Unit Code": "BMDC Y3S2 DIGITAL JOURNALISM"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Time": "FLORA MWANJA\r\nBJO 320 Digital Innovation for\r\nIntergrated Media L211A"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "EVANS NGUMO\r\nBAV 321 Digital Marketing\r\nONLINE"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Time": "DR. LYDIA PKAREMBA BCU 320 research methods A401"
+    },
+    {
+      "Unit Code": "BMDC Y3S2 PUBLIC RELATIONS"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "PAUL NYARURI\r\nBPR 322 Theories of Public\r\nRelations L307",
+      "Time": "FLORA MWANJA\r\nBJO 320 Digital Innovation for\r\nIntergrated Media L211A"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "EVANS NGUMO\r\nBAV 321 Digital Marketing\r\nONLINE",
+      "Time": "LEONA CHEMUTAI BPR 321 Communication Conflict and Negotiation Skills L006"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "DORA AKINYI\r\nBPR 320 Events Planning and\r\nManagement L005"
+    },
+    {
+      "Unit Code": "Friday",
+      "Time": "DR. LYDIA PKAREMBA BCU 320 research methods A401"
+    },
+    {
+      "Unit Code": "BMDC Y4S1 ADVERTISING"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "JOSPHAT GITHUA BAV 410 Advertising Production\r\nL307",
+      "Day": "PHILIP NJORE\r\nBPR 410 Monitoring and Evaluation of Communication Practices\r\nL006"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Time": "LYDIA NYABONYI\r\nBAV 411 Globalisation and\r\nAdvertising\r\nL203"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "ELSIE OCHIENG BJO 410 Documentary Production\r\nL003"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "SHEILA KIROTWA BPR 411 Strategic Communication ONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "DR. BETH MBORE\r\nBCU 410 Entreprenuership and\r\nInnovation\r\nA401"
+    },
+    {
+      "Unit Code": "BMDC Y4S1 DIGITAL JOURNALISM"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "PHILIP NJORE\r\nBPR 410 Monitoring and Evaluation of Communication Practices\r\nL006",
+      "Time": "JOSPHAT GITHUA BJO 411 Studio Technical Operations\r\nL005"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "ELSIE OCHIENG BJO 410 Documentary Production\r\nL003"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "SHEILA KIROTWA BPR 411 Strategic Communication ONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "DR. BETH MBORE BCU 410 Entreprenuership and\r\nInnovation\r\nA401",
+      "Day": "MARY NYAMAINGI BJO 412 Audiography and Podcasting\r\nL206"
+    },
+    {
+      "Unit Code": "BMDC Y4S1 PUBLIC RELATIONS"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "PHILIP NJORE\r\nBPR 410 Monitoring and Evaluation of Communication Practices\r\nL006",
+      "Time": "ELSIE OCHIENG BJO 410 Documentary Production\r\nL003"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "SHEILA KIROTWA BPR 411 Strategic Communication ONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "DR. BETH MBORE BCU 410 Entreprenuership and\r\nInnovation\r\nA401",
+      "Day": "PAUL NYARURI\r\nBPR 412 Communication and Public Campaigns for Social Change\r\nL006",
+      "Time": "MARK ODUOR BIRD 121 Introduction to Diplomacy\r\nL211B"
+    },
+    {
+      "Unit Code": "BMDC Y4S2 DIGITAL JOURNALISM"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "PAUL NYARURI BJO 422 Investigative Journalism\r\nL203",
+      "Day": "DR. SIMON CHEGE\r\nBJO 420 Digital Security for\r\nJournalists L005",
+      "Time": "DR. SIMON CHEGE\r\nBJO 421 Digital Journalism\r\nEthics L212"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Time": "MARY NYAMAINGI\r\nBPR 420 Interpretation Translation and Communication ONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "PHILIP NJORE\r\nBJO 423 Data Journalism L307"
+    },
+    {
+      "Unit Code": "BMDC Y4S2 PUBLIC RELATIONS"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "DORA AKINYI BPR 421 Crisis Communication L118"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "FLORA MWANJA\r\nBPR 422 Public Relations Case\r\nStudies L117"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "DR. SIMON CHEGE\r\nBJO 420 Digital Security for\r\nJournalists L005",
+      "Time": "DR. SIMON CHEGE\r\nBJO 421 Digital Journalism\r\nEthics L212"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Time": "MARY NYAMAINGI\r\nBPR 420 Interpretation Translation and Communication ONLINE"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "BPSM Y1S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "SAMUEL MBUGUA\r\nBAC 111 financial accounting 1\r\nL209"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "FLORA MWANJA\r\nBCU 111 Communication Skills\r\nONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "BONFACE MUNENE BEC 111 Microeconomics L209",
+      "Day": "DAVID GICHOHI BCU 112 Digital Literacy A401"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "DR. WYCLIFFE ARANI BPS 110 supply chain management ONLINE",
+      "Time": "BCU 113 Health and Wellness\r\nManagement SELF PACED LEARNING"
+    },
+    {
+      "Unit Code": "BPSM Y1S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "DAMARIS WANGUI BFN 121 introduction to financial management L005"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Time": "EMMANUEL SILA\r\nBPS 123 stores management and stock control ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "EMMANUEL SILA BPS 122 purchasing and supplies strategy ONLINE",
+      "Time": "EVANS LANGAT BPS 120 legal issues in procurement ONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "SAMUEL CHEGE BHR 121 human resource management\r\nL210",
+      "Day": "DANIEL IRERI MAT 214 business statistics I L209",
+      "Time": "BONFACE MUNENE BEC 223 Development Economics\r\nL005"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "BPSM Y2S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "HILDA MWALE BPS 212 sourcing in procurement supply ONLINE",
+      "Day": "JAMES MINCHA\r\nBAC 212 cost accounting\r\nL211B",
+      "Time": "AGNES WAGENI BBM 324 total quality management\r\nL211B"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "PURITY WACHIRA BPS 210 warehousing operations and management L118",
+      "Time": "DR. KIOGORA THIGA BPS 214 procurement and supplies relationships L211B"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "JANE MWINGA BPS 211 procurement for construction works ONLINE",
+      "Time": "HILDA MWALE BPS 213 inventory management ONLINE"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "BPSM Y2S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "SAMUEL MBUGUA MAT 221 quantitative techniques\r\nL205",
+      "Day": "DAMARIS WANGUI BFN 121 introduction to financial management L005",
+      "Time": "DR. JOY KIBOR\r\nBCT 423 Management Information Systems ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "HILDA MWALE\r\nBPS 225 contract law and negotiation ONLINE",
+      "Time": "EVANS LANGAT BPS 221 transport and distribution management ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Time": "JANE MWINGA BPS 223 measuring purchasing performance L118"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "EVANS LANGAT BPS 224 supplies and materials management ONLINE"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "BPSM Y3S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "EVANS LANGAT BPS 312 international purchasing\r\nL121",
+      "Time": "HILDA MWALE\r\nBPS 311 logistic management\r\nL318"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "JANE MWINGA\r\nBPS 415 provisioning of materials ONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "JANE MWINGA BPS 313 sustainability in supplychain ONLINE",
+      "Day": "SAMUEL CHEGE BHR 311 organisational behavior\r\nA203",
+      "Time": "BONFACE MUNENE BEC 223 Development Economics\r\nL005"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "NELLIE NGANGA\r\nBCT 323 Electronic commerce A103"
+    },
+    {
+      "Unit Code": "BPSM Y4S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "EVANS LANGAT BPS 414 procurement management ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "BEATRICE CHEPKOECH BPS 412 freight and fleet management\r\nONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "EVANS LANGAT BPS 411 e-procurement management\r\nONLINE",
+      "Day": "HILDA MWALE\r\nBPS 413 Procurement Integrity and Accountability\r\nL121"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "DR. BETH MBORE BCU 410 Entreprenuership and\r\nInnovation\r\nA401"
+    },
+    {
+      "Unit Code": "BSCIT Y1S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "FLORA MWANJA\r\nBCU 111 Communication Skills\r\nONLINE"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "DUNCAN KEREU BCU 112 Digital Literacy A401",
+      "Day": "NICHOLAS MURIUKI BSD 111 Structured Programming And Algorithms ICT 1"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Time": "DAVID CHEPKONGA MAT 111 basic mathematics A401"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "EDITH MUTHIKE\r\nENV 101 environmental studies\r\nSELF PACED LEARNING",
+      "Time": "BCU 113 Health and Wellness\r\nManagement\r\nSELF PACED LEARNING"
+    },
+    {
+      "Unit Code": "BSCIT Y1S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "NELLIE NGANGA BAC 123 Introduction to Computerised Business Accounting\r\nA202 LAB",
+      "Day": "MIRRIAM KAARA BSD 121 Software Design Methods and Architectures L210"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "DAVID CHEPKONGA MAT 120 calculus L206",
+      "Day": "DR. NICODEMUS AKETCH BCE 122 introduction to digital systems\r\nL120"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "NICHOLAS MURIUKI BCT 121 operating systems ONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "DAVID CHEPKONGA STA 123 Probability and Statistics\r\nL005",
+      "Day": "GEORGE WAINAINA BSD 122 object oriented programming 1\r\nICT 1"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "BSCIT Y2S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "EMMA WAMAITHA\r\nBCE 121 computer organization and architecture ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "DAVID CHEPKONGA\r\nMAT 212 Discrete Mathematics\r\nA002",
+      "Time": "NELLIE NGANGA BDM 121 Database Management Systems A202 LAB"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "RICHARD MATHENGE BSD 211 data structures and algorithms\r\nA103",
+      "Time": "MOHABE CHACHA\r\nBCE 214 computer graphics\r\nA103"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Time": "GEORGE WAINAINA BSD 214 object oriented programming 2\r\nA202 LAB"
+    },
+    {
+      "Unit Code": "Friday",
+      "Time": "IRENE JEPCHIRCHIR PHY 123 electronics L204"
+    },
+    {
+      "Unit Code": "BSCIT Y2S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "FREDRICK OCHIENG BSD 213 Object Oriented Software Design Methods ONLINE",
+      "Day": "NELLIE NGANGA\r\nBDM 222 advanced database management systems A202 LAB"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "RICHARD MATHENGE\r\nBNT 221 Data Communication and Computer Networks I L204"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "MOHABE CHACHA\r\nBSD 224 Multimedia Systems and Applications A303 LAB",
+      "Time": "HELLEN NYAMBURA\r\nBCT 421 Legal and Proffesional Ethics in Computing ONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Time": "DUNCAN KEREU BSD 313 Internet Programming I A303 LAB"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "BSCIT Y3S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "RICHARD MATHENGE BNT 313 telecommunication and broadcasting systems L211B"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "DANIEL NJERU\r\nBSD 315 Software Engineering\r\nONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "KNOWEN COSMAS\r\nBCT 321 research methods and\r\nTechnical Writing ONLINE",
+      "Day": "RICHARD MATHENGE BSD 314 Programming in Python\r\nA303 LAB",
+      "Time": "FREDRICK OCHIENG BCT 412 Computer And Cyber\r\nSecurity A203"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "EMMA WAMAITHA BNT 311 Distributed Computing\r\nA002"
+    },
+    {
+      "Unit Code": "BSCIT Y3S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "NICHOLAS MURIUKI\r\nBCE 312 Artificial Intelligence\r\nA002",
+      "Time": "SAMUEL MAINA\r\nBSD 316 Visual Programming\r\nA303 LAB"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Time": "DR. CHARLES KIHUNGI BSD 322 Internet Programming II A303 LAB"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "FREDRICK OCHIENG BNT 321 System Integration and Collaborative Techniques A104",
+      "Time": "DR. JOY KIBOR BCT 322 IT Project Management ONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Time": "DANIEL NJERU\r\nBSD 321 User Centered Design ONLINE"
+    },
+    {
+      "Unit Code": "BSCIT Y4S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "GEORGE WAINAINA BDM 221 Data Science ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Time": "EMMA WAMAITHA\r\nBSD 415 Wireless and Mobile\r\nTechnologies ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Time": "NICHOLAS MURIUKI BCT 415 Project Proposal ONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "DAVID GICHOHI BCE 414 Satelite and Broadband Communication L121",
+      "Day": "FREDRICK OCHIENG\r\nBCT 414 Information Systems Audit and Assurance A104"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "DR. BETH MBORE\r\nBCU 410 Entreprenuership and\r\nInnovation A401",
+      "Time": "KNOWEN COSMAS BCE 413 BlockChain Technology\r\nA104"
+    },
+    {
+      "Unit Code": "BSCIT Y4S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "EMMA WAMAITHA\r\nBSD 425 Microprocessor\r\nApplications A203",
+      "Day": "NICHOLAS MURIUKI BCT 425 Final Project ONLINE",
+      "Time": "MESHACK KORIR\r\nBCE 422 Real Time Software\r\nSystems A002"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "DR. JOY KIBOR\r\nBCT 424 Business Information Systems Management ONLINE",
+      "Day": "DR. CHARLES KIHUNGI\r\nBSD 312 Mobile Programming I A304 LAB"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "MOHABE CHACHA BCE 412 Machine Learning L205"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "BSE Y1S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "FLORA MWANJA\r\nBCU 111 Communication Skills\r\nONLINE",
+      "Time": "MIRRIAM KAARA\r\nBSD 112 Fundamentals of Software Engineering ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "NICHOLAS MURIUKI BSD 111 Structured Programming And Algorithms ICT 1"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "DUNCAN KEREU BCU 112 Digital Literacy A401",
+      "Time": "DAVID CHEPKONGA MAT 111 basic mathematics A401"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Time": "BCU 113 Health and Wellness\r\nManagement\r\nSELF PACED LEARNING"
+    },
+    {
+      "Unit Code": "BSE Y1S1 GROUP 2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "MIRRIAM KAARA\r\nBSD 112 Fundamentals of Software Engineering ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Time": "NICHOLAS MURIUKI BSD 111 Structured Programming And Algorithms ICT 1"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "FLORA MWANJA\r\nBCU 111 Communication Skills\r\nONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "DAVID GICHOHI BCU 112 Digital Literacy A401",
+      "Time": "DAVID CHEPKONGA MAT 111 basic mathematics A401"
+    },
+    {
+      "Unit Code": "Friday",
+      "Time": "BCU 113 Health and Wellness\r\nManagement SELF PACED LEARNING"
+    },
+    {
+      "Unit Code": "BSE Y1S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "MIRRIAM KAARA BSD 121 Software Design Methods and Architectures L210",
+      "Time": "EMMA WAMAITHA\r\nBCE 121 computer organization and architecture ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "DAVID CHEPKONGA\r\nMAT 212 Discrete Mathematics\r\nA002"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "NICHOLAS MURIUKI BCT 121 operating systems ONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "DAVID CHEPKONGA STA 123 Probability and Statistics\r\nL005",
+      "Day": "GEORGE WAINAINA BSD 122 object oriented programming 1\r\nICT 1"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "BSE Y2S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "FREDRICK OCHIENG BSD 213 Object Oriented Software Design Methods ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "DAVID CHEPKONGA MAT 120 calculus L206",
+      "Day": "SAMUEL MAINA\r\nBCE 212 Computer Support and Maintenance L203",
+      "Time": "NELLIE NGANGA BDM 121 Database Management Systems A202 LAB"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "RICHARD MATHENGE BSD 211 data structures and algorithms\r\nA103"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Time": "GEORGE WAINAINA BSD 214 object oriented programming 2\r\nA202 LAB"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "BSE Y2S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "GEORGE WAINAINA BDM 221 Data Science ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "RICHARD MATHENGE\r\nBNT 221 Data Communication and Computer Networks I L204"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Time": "FREDRICK OCHIENG\r\nBSD 222 Design and analysis of algorithms ONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "SAMUEL MAINA BSD 226 Software Metrics\r\nONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "MIRRIAM KAARA\r\nBSD 223 Mobile Computing\r\nL211A/L211B",
+      "Time": "NELLIE NGANGA BDM 222 advanced database management systems A303 LAB"
+    },
+    {
+      "Unit Code": "BSE Y2S2 GROUP 2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "GEORGE WAINAINA BDM 221 Data Science ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "NELLIE NGANGA\r\nBDM 222 advanced database management systems A202 LAB",
+      "Time": "MIRRIAM KAARA\r\nBSD 223 Mobile Computing\r\nA002"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "FREDRICK OCHIENG\r\nBSD 222 Design and analysis of algorithms ONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "RICHARD MATHENGE BNT 221 Data Communication and Computer Networks I A401",
+      "Day": "SAMUEL MAINA BSD 226 Software Metrics\r\nONLINE"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "BSE Y2S2 GROUP 3"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "GEORGE WAINAINA BDM 221 Data Science ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Time": "MIRRIAM KAARA\r\nBSD 223 Mobile Computing\r\nA002"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "FREDRICK OCHIENG\r\nBSD 222 Design and analysis of algorithms ONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "RICHARD MATHENGE BNT 221 Data Communication and Computer Networks I A401",
+      "Day": "SAMUEL MAINA BSD 226 Software Metrics\r\nONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "NELLIE NGANGA BDM 222 advanced database management systems A303 LAB"
+    },
+    {
+      "Unit Code": "BSE Y3S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "MIRRIAM KAARA BSD 317 Software Configuration Management ONLINE",
+      "Time": "SAMUEL MAINA\r\nBSD 316 Visual Programming\r\nA303 LAB"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "RICHARD MATHENGE\r\nBSD 225 Network Engineering and Programming L116",
+      "Day": "DR. CHARLES KIHUNGI\r\nBSD 312 Mobile Programming I A304 LAB"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "DUNCAN KEREU BSD 313 Internet Programming I A202 LAB",
+      "Day": "DAVID CHEPKONGA BSD 311 Simulation and Modelling\r\nONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "EMMA WAMAITHA BNT 311 Distributed Computing\r\nA002"
+    },
+    {
+      "Unit Code": "BSE Y3S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "MIRRIAM KAARA\r\nBSD 323 Software Testing\r\nL006"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "DR. CHARLES KIHUNGI BSD 324 Mobile Programming II\r\nA304 LAB"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Time": "DR. CHARLES KIHUNGI BSD 322 Internet Programming II A303 LAB"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "KNOWEN COSMAS\r\nBCT 321 research methods and\r\nTechnical Writing ONLINE",
+      "Time": "DR. JOY KIBOR BCT 322 IT Project Management ONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "DANIEL NJERU BDM 321 Cloud Computing and Services\r\nL121",
+      "Time": "DANIEL NJERU\r\nBSD 321 User Centered Design ONLINE"
+    },
+    {
+      "Unit Code": "BSE Y4S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "MESHACK KORIR\r\nBCE 422 Real Time Software\r\nSystems A002"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "SAMUEL MAINA\r\nBSD 411 Business Intelligence and analytics ONLINE",
+      "Time": "NICHOLAS MURIUKI BCT 415 Project Proposal ONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "SAMUEL MAINA\r\nBSD 412 Game Design And Development ONLINE",
+      "Day": "DANIEL NJERU\r\nBSD 414 Design Thinking\r\nL206",
+      "Time": "FREDRICK OCHIENG\r\nBCT 412 Computer And Cyber\r\nSecurity A203"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "MIRRIAM KAARA\r\nBSD 413 Software Quality\r\nAssurance L211B"
+    },
+    {
+      "Unit Code": "BSE Y4S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "NICHOLAS MURIUKI BCT 425 Final Project ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "KNOWEN COSMAS\r\nBSD 421 Enterprise Application\r\nDevelopment L005"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Time": "HELLEN NYAMBURA\r\nBCT 421 Legal and Proffesional Ethics in Computing ONLINE"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "DR. BETH MBORE BCU 410 Entreprenuership and\r\nInnovation\r\nA401",
+      "Time": "EMMA WAMAITHA BDM 411 Geographical Information Systems L005"
+    },
+    {
+      "Unit Code": "CBM MOD 1 TERM 1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "FELIX WERU ICT 111 Information Communication Technology L203"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "FRANCO SITAI CMB 124 Commerce L003",
+      "Time": "FRANCO SITAI\r\nCMB 112 Entreprenuership\r\nEducation L005/L006"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "CONDRAD WERE\r\nCMB 111 Financial Accounting\r\nL206"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "FRIDAH MUTHONI\r\nCMB 113 Business Calculations\r\nL207",
+      "Time": "VIVIAN MUYUMBU\r\nCMB 115 Communication Skills\r\nL205"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "FRIDAH MUTHONI\r\nCMB 116 Fundamentals of Management and Environment L205"
+    },
+    {
+      "Unit Code": "CBM MOD 1 TERM 2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "NICHOLAS OSIR\r\nCMB 126 Fundamentals of Management and Environment L003"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "FRANCO SITAI CMB 124 Commerce L003",
+      "Day": "VIVIAN MUYUMBU\r\nCMB 125 Communication Skills\r\nA103"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "FRIDAH MUTHONI\r\nCMB 123 Business Calculation and Statistics\r\nL307",
+      "Time": "FRIDAH MUTHONI CMB 122 Entreprenuership Education\r\nL204"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "CONDRAD WERE CMB 121 Financial Accounting\r\nL006"
+    },
+    {
+      "Unit Code": "Friday",
+      "Time": "FELIX WERU ICT 121 Information Communication Technology A202 LAB"
+    },
+    {
+      "Unit Code": "CBM MOD 1 TERM 3"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "NICHOLAS OSIR\r\nCMB 136 Fundamentals of Management and Environment L213"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "FRANCO SITAI CMB 124 Commerce L003"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "FRIDAH MUTHONI\r\nCMB 133 Business Calculations and Statistics\r\nL004",
+      "Time": "CONDRAD WERE\r\nCMB 131 Financial Accounting\r\nL005"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Time": "FELIX WERU ICT 121 Information Communication Technology A202 LAB"
+    },
+    {
+      "Unit Code": "CBM MOD 2 TERM 1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "NICHOLAS OSIR\r\nCMB 213 Sales and Marketing\r\nL203",
+      "Day": "FRANCO SITAI\r\nCMB 215 Office Organization\r\nL004",
+      "Time": "NICHOLAS OSIR CMB 212 Economics L207"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "MBURU JOSEPH CSW 125 Business Social Research Methods\r\nL206",
+      "Day": "VIVIAN MUYUMBU CMB 211 Human and Public Relations\r\nL207"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "SAMBA MWENDWA\r\nCMB 214 Business Law\r\nL003",
+      "Time": "CONDRAD WERE CMB 216 Business Finance L307"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "CBM MOD 2 TERM 2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "NICHOLAS OSIR\r\nCMB 213 Sales and Marketing\r\nL203",
+      "Day": "FRANCO SITAI\r\nCMB 215 Office Organization\r\nL004",
+      "Time": "NICHOLAS OSIR CMB 212 Economics L207"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "VIVIAN MUYUMBU CMB 211 Human and Public Relations\r\nL207"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "SAMBA MWENDWA\r\nCMB 214 Business Law\r\nL003",
+      "Time": "CONDRAD WERE CMB 216 Business Finance L307"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "CCF Y1S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "BRIAN MWANGI\r\nCCF 111 Fundamentals of Information Security L120",
+      "Time": "SOLOMON NDERITU\r\nCCU 110 Communication Skills\r\nONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "DAVID SHIALA\r\nCIT 111 Computer Application\r\nL116"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Time": "FAITH BIYAKI\r\nCIT 112 ICT and ETHICS L209"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Time": "FRED ONYANGO\r\nCMT 111 Basic Mathematics\r\nL121"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "CCF Y1S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "DAVID SHIALA\r\nCIT 121 Introduction To Operating Systems ONLINE",
+      "Day": "NANCY MUTHUI\r\nCCF 123 Cloud Computing And\r\nSecurity A103"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "SAMUEL NDIRANGU CCF 124 Cyber Law And Compliance\r\nONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "SAMUEL NDIRANGU CCF 125 Threat Monitoring L118"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Time": "NANCY MUTHUI\r\nCCF 122 Ethical Hacking And\r\nPenetration Testing ONLINE"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "CDFV SEM 1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "SOLOMON NDERITU\r\nCCU 110 Communication Skills\r\nONLINE"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "CCU 102 Health and Wellness\r\nSELF PACED LEARNING",
+      "Day": "FAITH BIYAKI\r\nCCU 111 Digital Literacy A002"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "ANNE MWANGI\r\nCFV 112 Film Production\r\nEditing Suite"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "SHEILA KIROTWA CFV 113 Set and Location Design\r\nEditing Suite",
+      "Day": "SHEILA KIROTWA\r\nCFV 111 Scripting for Film and\r\nTelevision Editing Suite"
+    },
+    {
+      "Unit Code": "CDFV SEM 2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "RAWLINGS NYANGAU CFV 124 Make-Up and Costume\r\nL120"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "MACHARIA KARIUKI CFV 125 Directing L117",
+      "Day": "MACHARIA KARIUKI CFV 123 Cinematography L210",
+      "Time": "ELIUD MWANGI\r\nCFV 122 Lighting for Film and\r\nTelevision\r\nL121"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Time": "SHEILA KIROTWA\r\nCFV 121 Film and Television\r\nEditing Editing Suite"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "JULIAN AMANYA\r\nCCU 120 Entrepreneurship\r\nEducation\r\nL004"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "CEE MOD 1 TERM 1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "RAHAB MWANGI EEE 113 Mathematics I L004",
+      "Day": "GLADYS MORAA EEE 110 Applied Science L213",
+      "Time": "FELIX WERU ICT 111 Information Communication Technology L203"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "JOSEPH MACHARIA EEE 102 Trade Practice Workshop",
+      "Time": "FRANCO SITAI\r\nCMB 112 Entreprenuership\r\nEducation L005/L006"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "RAHAB MWANGI EEE 113 Mathematics I L318"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "ABIGAEL JERUTO\r\nEEE 117 Workshop Technology\r\nL318",
+      "Day": "RAHAB MWANGI EEE 113 Mathematics I L211A",
+      "Time": "GLADYS MORAA EEE 110 Applied Science L308"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "ABIGAEL JERUTO\r\nEEE 117 Workshop Technology\r\nL213",
+      "Day": "GLADYS MORAA EEE 110 Applied Science L318"
+    },
+    {
+      "Unit Code": "CEE MOD 1 TERM 2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "RAHAB MWANGI EEE 113 Mathematics I L004",
+      "Day": "GLADYS MORAA EEE 110 Applied Science L213"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "JOSEPH MACHARIA EEE 102 Trade Practice Workshop"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "RAHAB MWANGI EEE 113 Mathematics I L318",
+      "Time": "FRIDAH MUTHONI CMB 122 Entreprenuership Education\r\nL204"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "ABIGAEL JERUTO\r\nEEE 117 Workshop Technology\r\nL318",
+      "Day": "RAHAB MWANGI EEE 113 Mathematics I L211A",
+      "Time": "GLADYS MORAA EEE 110 Applied Science L308"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "ABIGAEL JERUTO\r\nEEE 117 Workshop Technology\r\nL213",
+      "Day": "GLADYS MORAA EEE 110 Applied Science L318",
+      "Time": "FELIX WERU\r\nICT 121 Information Communication Technology A202 LAB"
+    },
+    {
+      "Unit Code": "CEE MOD 1 TERM 3"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "RAHAB MWANGI EEE 113 Mathematics I L004",
+      "Day": "GLADYS MORAA EEE 110 Applied Science L213"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "JOSEPH MACHARIA EEE 102 Trade Practice Workshop"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "RAHAB MWANGI EEE 113 Mathematics I L318"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "ABIGAEL JERUTO EEE 117 Workshop Technology\r\nL318",
+      "Day": "RAHAB MWANGI EEE 113 Mathematics I L211A",
+      "Time": "GLADYS MORAA EEE 110 Applied Science L308"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "ABIGAEL JERUTO\r\nEEE 117 Workshop Technology L213",
+      "Day": "GLADYS MORAA EEE 110 Applied Science L318"
+    },
+    {
+      "Unit Code": "CEE MOD 2 TERM 1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "ABIGAEL JERUTO EEE 213 Electrical Principles II L206",
+      "Time": "JOSEPH MACHARIA EEE 217 Industrial Machines and Controls\r\nL318"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "ABIGAEL JERUTO\r\nEEE 213 Electrical Principles II L212",
+      "Time": "JOSEPH MACHARIA\r\nEEE 217 Industrial Machines and Controls\r\nL003"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "GLADYS MORAA\r\nEEE 216 Electrical Design Estimating and Tendering A003",
+      "Day": "ABIGAEL JERUTO\r\nEEE 213 Electrical Principles II L116",
+      "Time": "JOSEPH MACHARIA\r\nEEE 217 Industrial Machines and Controls\r\nL003"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "GLADYS MORAA EEE 216 Electrical Design Estimating and Tendering L006",
+      "Time": "VIVIAN MUYUMBU\r\nCMB 115 Communication Skills\r\nL205"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "GLADYS MORAA EEE 216 Electrical Design Estimating and Tendering L003",
+      "Day": "JOSEPH MACHARIA EEE 202 Trade Practice Workshop"
+    },
+    {
+      "Unit Code": "CEE MOD 2 TERM 2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "ABIGAEL JERUTO EEE 213 Electrical Principles II L206",
+      "Time": "JOSEPH MACHARIA EEE 217 Industrial Machines and Controls\r\nL318"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "ABIGAEL JERUTO\r\nEEE 213 Electrical Principles II L212",
+      "Day": "VIVIAN MUYUMBU\r\nCMB 125 Communication Skills\r\nA103",
+      "Time": "JOSEPH MACHARIA\r\nEEE 217 Industrial Machines and Controls\r\nL003"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "GLADYS MORAA\r\nEEE 216 Electrical Design Estimating and Tendering A003",
+      "Day": "ABIGAEL JERUTO\r\nEEE 213 Electrical Principles II L116",
+      "Time": "JOSEPH MACHARIA\r\nEEE 217 Industrial Machines and Controls\r\nL003"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "GLADYS MORAA EEE 216 Electrical Design Estimating and Tendering L006"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "GLADYS MORAA EEE 216 Electrical Design Estimating and Tendering L003",
+      "Day": "JOSEPH MACHARIA EEE 202 Trade Practice Workshop"
+    },
+    {
+      "Unit Code": "CEE MOD 2 TERM 3"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "ABIGAEL JERUTO EEE 213 Electrical Principles II L206",
+      "Time": "JOSEPH MACHARIA EEE 217 Industrial Machines and Controls\r\nL318"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "ABIGAEL JERUTO\r\nEEE 213 Electrical Principles II L212",
+      "Time": "JOSEPH MACHARIA\r\nEEE 217 Industrial Machines and Controls\r\nL003"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "GLADYS MORAA\r\nEEE 216 Electrical Design Estimating and Tendering A003",
+      "Day": "ABIGAEL JERUTO\r\nEEE 213 Electrical Principles II L116",
+      "Time": "JOSEPH MACHARIA\r\nEEE 217 Industrial Machines and Controls\r\nL003"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "GLADYS MORAA EEE 216 Electrical Design Estimating and Tendering L006"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "GLADYS MORAA EEE 216 Electrical Design Estimating and Tendering L003",
+      "Day": "JOSEPH MACHARIA EEE 202 Trade Practice Workshop"
+    },
+    {
+      "Unit Code": "CEE Y1S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "GERTRUDE KIDALI CEE 103 Electrical Installation\r\nTechnology\r\nL212",
+      "Time": "SOLOMON NDERITU CCU 110 Communication Skills ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "EUSEBIAH NANZALA\r\nCEE 104 Engineering Drawing\r\nA003"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "FAITH BIYAKI\r\nCCU 111 Digital Literacy A002"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "GERTRUDE KIDALI\r\nCEE 105 Basic Mathematics L116",
+      "Day": "GERTRUDE KIDALI\r\nCEE 102 Electrical Principles I L308",
+      "Time": "IMMACULATE OLOO CEE 101 Applied Science I L210"
+    },
+    {
+      "Unit Code": "CEE Y1S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "AMOS MAINGI Workshop Practice Workshop"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "IMMACULATE OLOO\r\nCEE 203 Electrical Principles II L308"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "CCU 102 Health and Wellness\r\nSELF PACED LEARNING",
+      "Time": "PHILIP WEKESA CEE 204 Projects And Contracts Management Workshop"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "CHRISPHINE ODHIAMBO CEE 202 Applied Science II A003"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "IMMACULATE OLOO CEE 201 Technical Mathematics I\r\nL318",
+      "Day": "IMMACULATE OLOO CEE 200 Digital Electronics L213"
+    },
+    {
+      "Unit Code": "CEE Y2S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "AMOS MAINGI CEE 304 Solar Installation\r\nSystems\r\nL116"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "CHRISPHINE ODHIAMBO\r\nCEE 303 Analogue Electronics\r\nL308",
+      "Time": "IMMACULATE OLOO CEE 301 Micro Electronics Workshop"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "CHRISPHINE ODHIAMBO CEE 302 Technical Mathematics II L003",
+      "Time": "AMOS MAINGI\r\nCEE 305 Electrical Machines\r\nTechnology\r\nA003"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "IMMACULATE OLOO CEE 300 Electrical Installation\r\nTechnology II L213"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "JOSEPH MACHARIA EEE 202 Trade Practice Workshop"
+    },
+    {
+      "Unit Code": "CBM SEM 1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "PURITY WACHIRA CPS 111 Introduction to Supply\r\nChain Management\r\nL211A",
+      "Day": "NICHOLAS OYUGI CBM 111 Fundamentals of Management\r\nL211A",
+      "Time": "SOLOMON NDERITU CCU 110 Communication Skills ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "FAITH BIYAKI\r\nCCU 111 Digital Literacy A002"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "JOSEPHINE MUTHONI CHR 111 Principles of Human Resource Management L004"
+    },
+    {
+      "Unit Code": "CBM SEM 2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "NICHOLAS OYUGI CMK 121 Principles of Marketing\r\nL206",
+      "Day": "BALLERINE SHUNZA CFN 121 Iintroduction to Business Law\r\nONLINE",
+      "Time": "SOLOMON NDERITU CCU 110 Communication Skills ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "BALLERINE SHUNZA\r\nCFN 123 Principles of Finance\r\nONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "FAITH BIYAKI\r\nCCU 111 Digital Literacy A002"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "JULIAN AMANYA CCU 120 Entrepreneurship\r\nEducation\r\nL004"
+    },
+    {
+      "Unit Code": "Friday",
+      "Time": "ELIJAH NYAMWEYA CAC 121 Fundamentals of Accounting\r\nL211A"
+    },
+    {
+      "Unit Code": "CHTM SEM 1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "CHRISTINE KINYA CHT 115 Fundamentals of Hospitality and Tourism management L207",
+      "Time": "SOLOMON NDERITU\r\nCCU 110 Communication Skills\r\nONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "MERCY MUGAMBI CHT 111 Food production Theory A203",
+      "Time": "MERCY MUGAMBI CHT 113 Food production practicals\r\nKITCHEN"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "FAITH BIYAKI\r\nCCU 111 Digital Literacy A002"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "MILDRED RONO\r\nCHT 114 Introduction to Tours and Travel L118",
+      "Time": "BELDINE KWAMBOKA CFR 101 french 1\r\nL117"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "CHTM SEM 2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "FREDRICK MWAURA CHT 121 Food service theory L121",
+      "Time": "BILHAH GITAU\r\nCHT 124 Food service practice\r\nRESTAURANT"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "CHARLES ODHIAMBO CHT 123 Airline Booking Systems\r\nA304 LAB",
+      "Time": "CHARLES ODHIAMBO CHT 125 Attraction and Facilities\r\nL120"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "FREDRICK MWAURA\r\nCHT 122 Food and bev control\r\nL211B"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "BELDINE KWAMBOKA CFR 102 French 2\r\nL120"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "CIT SEM 1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "MONICA MBUGUA CBM 112 Introduction to Business\r\nONLINE",
+      "Time": "SOLOMON NDERITU\r\nCCU 110 Communication Skills\r\nONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "DAVID SHIALA\r\nCIT 111 Computer Application\r\nL116"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Time": "FAITH BIYAKI\r\nCIT 112 ICT and ETHICS L209"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Time": "FRED ONYANGO\r\nCMT 111 Basic Mathematics L121"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "CIT SEM 2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "DAVID SHIALA\r\nCIT 121 Introduction To Operating Systems ONLINE",
+      "Time": "MERCILINE OCHIENG CIT 123 Introduction To Programming\r\nA303 LAB"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "PJORN MURIUKI\r\nCIT 122 Introduction To Database Management ONLINE",
+      "Day": "GITONGA MUNYI\r\nCIT 124 Desktop Publishing\r\nA303 LAB"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Time": "ELIJAH NYAMWEYA CAC 121 Fundamentals of Accounting\r\nL211A"
+    },
+    {
+      "Unit Code": "CICT MOD 1 TERM 1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "FELIX WERU CTZ 111 Ict and Ethics ONLINE",
+      "Time": "ERIC NYAGA CTZ 112 Computer Applications I ICT 3"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Time": "FRANCO SITAI\r\nCMB 112 Entreprenuership\r\nEducation L005/L006"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "EUSEBIAH NANZALA CTZ 113 Basic Electronics A203",
+      "Day": "ABIGAEL JERUTO CTZ 114 Mathematics L203",
+      "Time": "VIVIAN MUYUMBU\r\nCMB 115 Communication Skills\r\nL205"
+    },
+    {
+      "Unit Code": "Friday",
+      "Time": "JOHN KEBASO\r\nCTZ 115 Operating Systems L006"
+    },
+    {
+      "Unit Code": "CICT MOD 1 TERM 2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "ERIC NYAGA CTZ 122 Computer Applications\r\nI ICT 3"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "VIVIAN MUYUMBU\r\nCMB 125 Communication Skills\r\nA103"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Time": "FRIDAH MUTHONI CMB 122 Entreprenuership Education\r\nL204"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "DAVID GITHINJI CTZ 121 Ict and Ethics ONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "JOHN KEBASO\r\nCTZ 125 Operating Systems L005",
+      "Day": "EUSEBIAH NANZALA CTZ 124 Mathematics L212",
+      "Time": "RAHAB MWANGI\r\nCTZ 123 Basic Electronics L118"
+    },
+    {
+      "Unit Code": "CICT MOD 1 TERM 3"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "EUSEBIAH NANZALA CTZ 133 Basic Electronics L117"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "JOHN KEBASO\r\nCTZ 135 Operating Systems\r\nL118"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "EUSEBIAH NANZALA CTZ 134 Mathematics L117",
+      "Time": "ERIC NYAGA CTZ 132 Computer Applications\r\nI ICT 3"
+    },
+    {
+      "Unit Code": "CICT MOD 2 TERM 1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Time": "JOHN KEBASO CTZ 213 Structured Programming\r\nICT 3"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "MBURU JOSEPH CSW 125 Business Social Research Methods\r\nL206"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "ERIC NYAGA CTZ 212 Computer Applications\r\nII ICT 3",
+      "Day": "FELIX WERU CTZ 211 Computer Support and\r\nMaintenance\r\nL117"
+    },
+    {
+      "Unit Code": "CICT MOD 2 TERM 2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "FELIX WERU CTZ 221 Computer Support and Maintenance\r\nL117",
+      "Day": "ERIC NYAGA CTZ 222 Computer Applications II\r\nICT 3"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "JOHN KEBASO CTZ 223 Structured Programming\r\nICT 3"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "CPSM SEM 1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "PURITY WACHIRA CPS 111 Introduction to Supply\r\nChain Management L211A",
+      "Day": "NICHOLAS OYUGI CBM 111 Fundamentals of Management\r\nL211A",
+      "Time": "SOLOMON NDERITU CCU 110 Communication Skills ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "FAITH BIYAKI\r\nCCU 111 Digital Literacy A002"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "JOSEPHINE MUTHONI CHR 111 Principles of Human Resource Management L004"
+    },
+    {
+      "Unit Code": "CPSM SEM 2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "SOLOMON NDERITU CCU 110 Communication Skills ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "BEATRICE CHEPKOECH CPS 121 Stores Management and Stock Control ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "PURITY WACHIRA\r\nCPS 123 Introduction to Public Procurement ONLINE",
+      "Day": "FAITH BIYAKI\r\nCCU 111 Digital Literacy A002"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "JULIAN AMANYA CCU 120 Entrepreneurship\r\nEducation L004"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "FRANCIS OPUKA CPS 122 Principles of Purchasing\r\nONLINE",
+      "Time": "ELIJAH NYAMWEYA CAC 121 Fundamentals of Accounting\r\nL211A"
+    },
+    {
+      "Unit Code": "CFB MOD 1 TERM 1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "FELIX WERU ICT 111 Information Communication Technology L203"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Time": "FRANCO SITAI\r\nCMB 112 Entreprenuership\r\nEducation L005/L006"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Time": "CAROL MURIGI\r\nCFB 114 Food Production\r\nPractice KITCHEN"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Time": "FRIDAH MUTHONI CFB 111 Mathematics L203"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "PHINA ONYANGO\r\nCFB 115 Menu Planning and\r\nCosting L203",
+      "Day": "JOSEPH MAINA\r\nCFB 112 Food science and\r\nNutrition L207",
+      "Time": "PHINA ONYANGO CFB 113 Food Production Theory\r\nL213"
+    },
+    {
+      "Unit Code": "CFB MOD 1 TERM 2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "FRED ONYANGO CFB 121 Mathematics L308"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "CAROL MURIGI\r\nCFB 125 Menu Planning and\r\nCosting\r\nL118",
+      "Time": "JOSEPH MAINA\r\nCFB 122 Food Science and\r\nNutrition\r\nL308"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Time": "FRIDAH MUTHONI CMB 122 Entreprenuership Education\r\nL204"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "CAROL MURIGI\r\nCFB 123 Food production\r\nTheory L117",
+      "Time": "CAROL MURIGI\r\nCFB 124 Food Production\r\nPractice KITCHEN"
+    },
+    {
+      "Unit Code": "Friday",
+      "Time": "FELIX WERU\r\nICT 121 Information Communication Technology A202 LAB"
+    },
+    {
+      "Unit Code": "CFB MOD 1 TERM 3"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "FRED ONYANGO CFB 131 Mathematics L117"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "JOSEPH MAINA\r\nCFB 132 Food Science and\r\nNutrition L318"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "CAROL KANINI\r\nCFB 135 Menu Planning and\r\nCosting L006",
+      "Day": "CAROL MURIGI\r\nCFB 133 Food Production\r\nTheory L318"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "CAROL KANINI CFB 134 Food Production Practice KITCHEN"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "CFB MOD 2 TERM 1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Time": "CAROL MURIGI\r\nCFB 211 Food and Beverage\r\nControl L118"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "MBURU JOSEPH CSW 125 Business Social Research Methods\r\nL206",
+      "Time": "CAREEN NANJALA\r\nCFB 213 Food Service Practice\r\nRESTAURANT"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "TABITHA WANJIKU\r\nCFB 212 Food Service Theory\r\nL003",
+      "Time": "VIVIAN MUYUMBU\r\nCMB 115 Communication Skills\r\nL205"
+    },
+    {
+      "Unit Code": "Friday",
+      "Time": "CAROL KANINI\r\nCFB 214 Catering Premises\r\nL121"
+    },
+    {
+      "Unit Code": "CFB MOD 2 TERM 2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "VIVIAN MUYUMBU\r\nCMB 125 Communication Skills\r\nA103"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "CAREEN NANJALA\r\nCFB 221 Food and beverage control L117",
+      "Time": "CAROL KANINI\r\nCFB 224 Catering Premises\r\nL117"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "TABITHA WANJIKU\r\nCFB 222 Food Service Theory\r\nL121",
+      "Time": "TABITHA WANJIKU\r\nCFB 223 Food Service Practice\r\nRESTAURANT"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "CFB MOD 2 TERM 3"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "JOSEPH MAINA\r\nCFB 231 Food and beverage control L120"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "CAROL KANINI\r\nCFB 234 Catering Premises L212"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "PHINA ONYANGO\r\nCFB 232 Food Service Theory L005",
+      "Time": "JOSEPH MAINA\r\nCFB 233 Food Service Practice\r\nRESTAURANT"
+    },
+    {
+      "Unit Code": "CJMS ZU Y1S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "SOLOMON NDERITU\r\nCCU 110 Communication Skills\r\nONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "ESTHER MUTHAMBURE CJM 112 English for beginning Journalists\r\nEditing Suite",
+      "Day": "SOLOMON NDERITU\r\nCJM 111 Introduction to Mass Communication Editing Suite"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "FAITH BIYAKI\r\nCCU 111 Digital Literacy A002"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Time": "DORA AKINYI\r\nCJM 113 Introduction to Media Management Editing Suite"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "CJMS ZU Y1S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "MACHARIA KARIUKI\r\nCJM 124 Broadcast Production\r\nL003",
+      "Time": "DAVID MAINA\r\nCJM 122 Introduction to Media\r\nLaw and Ethics Editing Suite"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "GITONGA MUNYI\r\nCIT 124 Desktop Publishing\r\nA303 LAB",
+      "Time": "SOLOMON NDERITU CJM 126 Basics of News Writing Editing Suite"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "RAWLINGS NYANGAU CJM 125 Photojournalism Editing Suite"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "DAC SEM 1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "FAITH BIYAKI DIT 112 ICT and ETHICS ONLINE",
+      "Time": "FREDRICK MBOYA  DSE 111 Structured Programming A304 LAB"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Time": "SYMON MATONYO\r\nDMT 111 Basic Mathematics A401"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "ELIJAH NYAMWEYA\r\nDAC 123 Financial Accounting I L204"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "SOLOMON NDERITU DCU 110 Communication Skills\r\nONLINE",
+      "Time": "DAVID GICHOHI DIT 111 Computer Application ICT 1"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "DAC SEM 2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "BARACK OUKO DCS 121 Electronics ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Time": "DAVID SHIALA\r\nDCS 122 Computer Organization A103"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Time": "STEPHEN BOSIRE\r\nDIT 122 Operating Systems\r\nONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "DAVID GITHINJI DIT 123 Computer Networks/ CCNA ICT 3"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "GEOFFREY SAGWE DSA 124 Big Data And Database Management L307",
+      "Day": "SOLOMON ROTICH\r\nDMT 121 Discrete Mathematics A401"
+    },
+    {
+      "Unit Code": "DAC SEM 3"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "NANCY MUTHUI DSA 213 Cloud Computing And\r\nSecurity L211B",
+      "Time": "MICHAEL MBURU DCE 212 AI and IOT ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "FRANCIS MUTUKU\r\nDSE 222 Research Methods In It System Proposal ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "GODFREY CHEGE DSD 212 Digital Design Thinking\r\nL203",
+      "Time": "SAMUEL KINUTHIA\r\nDIT 212 Routing and Switching\r\nCCNA 2 A202 LAB"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Time": "GEOFFREY SAGWE DCE 211 Machine Learning Models\r\nL213"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "DAC SEM 4"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "BRIAN MWEU\r\nDCE 224 Developer Operations L307"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "KEVIN OMOLO\r\nDCE 223 Recommender Systems And Applications L004",
+      "Time": "KEVIN OMOLO\r\nDCE 225 Embeddable Artificial\r\nIntelligence A104"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "BARACK OUKO\r\nDIT 223 Cyber Security CCNA Mod 3 ONLINE",
+      "Time": "FREDRICK MBOYA DIT 224 Cloud Based Data Management\r\nL120"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Time": "FREDRICK MBOYA DCE 226 Cloud And Fog Computing\r\nL207"
+    },
+    {
+      "Unit Code": "DCF SEM 1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "FAITH BIYAKI DIT 112 ICT and ETHICS ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "DANIEL MWANGI\r\nDAC 123 Financial Accounting I L204",
+      "Time": "SYMON MATONYO\r\nDMT 111 Basic Mathematics A401"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "STEPHEN BOSIRE\r\nDIT 111 Computer Applications\r\nICT 1"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "SOLOMON NDERITU DCU 110 Communication Skills\r\nONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "JANE MWONGELI DSE 111 Structured Programming ICT 1"
+    },
+    {
+      "Unit Code": "DCF SEM 2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "BRIAN MWANGI DCF 121 Cyber Security Essentials\r\nONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "GODFREY CHEGE DIT 211 Object Oriented Programming\r\nA303 LAB",
+      "Time": "NANCY NJAMBI\r\nDIT 124 Database Systems\r\nA203"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Time": "STEPHEN BOSIRE\r\nDIT 122 Operating Systems\r\nONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "DAVID GITHINJI DIT 123 Computer Networks/ CCNA ICT 3",
+      "Time": "ANNETTE WHITNEY\r\nDIT 121 System Analysis And\r\nDesign L204"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "DCF SEM 3"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "NANCY MUTHUI\r\nDSA 213 Cloud Computing And\r\nSecurity L211B"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "SAMUEL NDIRANGU DCF 213 Incident And Digital Forensics\r\nONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "FRANCIS MUTUKU\r\nDSE 222 Research Methods In It System Proposal ONLINE",
+      "Day": "SAMUEL NDIRANGU DCF 212 Cyber Law L211B",
+      "Time": "SAMUEL KINUTHIA\r\nDIT 212 Routing and Switching\r\nCCNA 2 A202 LAB"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "NANCY MUTHUI DCF 211 Cryptography ONLINE"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "DCF SEM 4"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "JULIAN AMANYA\r\nDCU 113 Entrepreneurship and\r\nInnovation A401"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "BARACK OUKO\r\nDIT 223 Cyber Security CCNA Mod 3 ONLINE",
+      "Time": "LINDA SAWE\r\nDCF 221 Ethical Hacking\r\nL307"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "FRANCIS MUTUKU\r\nDSE 313 Artificial Intelligence\r\nL205"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "PJORN MURIUKI\r\nDSE 315 Computer Systems\r\nProject L204",
+      "Day": "NANCY MUTHUI\r\nDCF 222 Risk Management And Governance ONLINE"
+    },
+    {
+      "Unit Code": "DCMS ZU Y1S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "STEPHEN BOSIRE DCU 112 Digital Literacy A401"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "DAVID MAINA\r\nDCU 110 Communication Skills\r\nONLINE",
+      "Time": "DORA AKINYI\r\nDCM 112 English For Journalists\r\nL206"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "DAVID MAINA\r\nDCM 113 Media House Management and Regulation L004",
+      "Time": "SOLOMON NDERITU\r\nDCM 111 Principles of Mass\r\nCommunication A203"
+    },
+    {
+      "Unit Code": "DCMS ZU Y1S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "DAVID MAINA\r\nDCM 121 Media Law and Ethics L308",
+      "Time": "JULIAN AMANYA\r\nDCU 113 Entrepreneurship and\r\nInnovation A401"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "RAWLINGS NYANGAU DCM 122 Photojournalism\r\nL212",
+      "Time": "VIVIAN MUYUMBU DCM 123 News Writing and Reporting ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Time": "GITONGA MUNYI\r\nDIT 113 Desktop Publishing\r\nICT 1"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Time": "DCU 123 Health and Wellness\r\nSELF PACED LEARNING"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "DCMS ZU Y2S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "DAVID MAINA\r\nDCM 212 Principles of Public\r\nRelations ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "ANNE MWANGI\r\nDCM 214 Cinematography\r\nL205"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "VIVIAN MUYUMBU DCM 213 Principles of Advertising\r\nL121"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "DR. BENJAMIN MUINDI DCM 211 Media Social Context A002"
+    },
+    {
+      "Unit Code": "Friday",
+      "Time": "DAVID MAINA\r\nDCM 215 Communication\r\nResearch\r\nL203"
+    },
+    {
+      "Unit Code": "DCMS ZU Y2S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "SOLOMON NDERITU DCM 223 Strategic Public\r\nRelations A103",
+      "Day": "SOLOMON NDERITU DCM 222 Sub-Editing A002"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "PAUL NYARURI DCM 221 Advertising Messaging and Campaigns ONLINE",
+      "Time": "VIVIAN MUYUMBU DCM 224 Broadcast Journalism\r\nA002"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "DCMS ZU Y3S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "ANNE MWANGI\r\nDCM 314 Video Production and\r\nEditing L211A"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "LYDIA NYABONYI DCM 313 Online Advertising L006"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "ELIUD MWANGI\r\nDCM 312 Studio Technical Operations STUDIO"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Time": "SOLOMON NDERITU DCM 311 Media Research Monitoring and Evaluation L004"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "DDA SEM 1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "FAITH BIYAKI DIT 112 ICT and ETHICS ONLINE",
+      "Time": "FREDRICK MBOYA  DSE 111 Structured Programming A304 LAB"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "DANIEL MWANGI\r\nDAC 123 Financial Accounting I L204",
+      "Time": "SYMON MATONYO\r\nDMT 111 Basic Mathematics A401"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "SOLOMON NDERITU DCU 110 Communication Skills ONLINE",
+      "Time": "DAVID GICHOHI DIT 111 Computer Application ICT 1"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "DDA SEM 2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "BARACK OUKO DCS 121 Electronics ONLINE",
+      "Day": "NANCY NJAMBI DSA 121 Introduction to data Engineering ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "FAITH BIYAKI\r\nDIT 124 Database Systems\r\nL205",
+      "Time": "STEPHEN BOSIRE\r\nDIT 122 Operating Systems\r\nONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "DANIEL IRERI\r\nDMT 125 Introduction to\r\nStatistics L204",
+      "Day": "MICHAEL MBURU\r\nDSA 122 Big Data Analytics\r\nONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Time": "NANCY NJAMBI\r\nDSA 123 Computer Vision In\r\nData Science L004"
+    },
+    {
+      "Unit Code": "DDA SEM 3"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "NANCY MUTHUI\r\nDSA 213 Cloud Computing And\r\nSecurity L211B"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "FRANCIS MUTUKU\r\nDSE 222 Research Methods In It System Proposal ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Time": "NANCY NJAMBI\r\nDSA 212 Predictive Analytics\r\nONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "GEOFFREY SAGWE DIT 213 Data Mining And Warehousing\r\nL121",
+      "Time": "GEOFFREY SAGWE DCE 211 Machine Learning Models\r\nL213"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "NANCY NJAMBI\r\nDSA 211 Python For Data\r\nScience ICT 3"
+    },
+    {
+      "Unit Code": "DDA SEM 4"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "MICHAEL MBURU\r\nDSA 223 Data Analytics And\r\nVisualization L116",
+      "Time": "JULIAN AMANYA\r\nDCU 113 Entrepreneurship and\r\nInnovation A401"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "ERIC NJAGUA\r\nDSA 222 R Programming For\r\nData Science L116"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "FRANCIS MUTUKU\r\nDSE 313 Artificial Intelligence\r\nL209"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "PJORN MURIUKI\r\nDSE 315 Computer Systems\r\nProject L204",
+      "Day": "GEOFFREY SAGWE\r\nDSA 221 Big Data Storage and\r\nProcessing L116"
+    },
+    {
+      "Unit Code": "DDM SEM 1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "STEPHEN BOSIRE DCU 112 Digital Literacy A401"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "ZIPORAH MUTHONI\r\nDMK 111 Principles of Digital Marketing A203",
+      "Day": "DAVID MAINA\r\nDCU 110 Communication Skills\r\nONLINE"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "BRIAN MWEU DMK 112 Search Engine Optimization ONLINE",
+      "Day": "ZIPORAH MUTHONI\r\nDMK 113 Social Media Marketing L118"
+    },
+    {
+      "Unit Code": "DEE MOD 1 TERM 1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "GIBSON KIPKOECH EEE 310 Physical Science L121",
+      "Day": "PAUL ODINDO\r\nEEE 311 Mechanical Science\r\nA203",
+      "Time": "GIBSON KIPKOECH EEE 310 Physical Science L212"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "PAUL ODINDO\r\nEEE 311 Mechanical Science\r\nL121",
+      "Time": "FRANCO SITAI\r\nCMB 112 Entreprenuership\r\nEducation L005/L006"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "PAUL ODINDO\r\nEEE 311 Mechanical Science\r\nA104",
+      "Day": "GLADYS MORAA\r\nEEE 315 Materials And Processes\r\nWorkshop Technology\r\nA104",
+      "Time": "GLADYS MORAA\r\nEEE 315 Materials And Processes\r\nWorkshop Technology\r\nA104"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "GIBSON KIPKOECH EEE 310 Physical Science L117",
+      "Day": "GLADYS MORAA\r\nEEE 315 Materials And Processes\r\nWorkshop Technology\r\nL318",
+      "Time": "RAHAB MWANGI\r\nEEE 319 Analogue Electronics\r\nL212"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "RAHAB MWANGI\r\nEEE 319 Analogue Electronics A203",
+      "Day": "RAHAB MWANGI\r\nEEE 319 Analogue Electronics A104"
+    },
+    {
+      "Unit Code": "DEE MOD 1 TERM 2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "GIBSON KIPKOECH EEE 310 Physical Science L121",
+      "Day": "PAUL ODINDO EEE 311 Mechanical Science A203",
+      "Time": "GIBSON KIPKOECH EEE 310 Physical Science L212"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "PAUL ODINDO\r\nEEE 311 Mechanical Science\r\nL121",
+      "Day": "VIVIAN MUYUMBU\r\nCMB 125 Communication Skills\r\nA103",
+      "Time": "FRANCO SITAI\r\nCMB 112 Entreprenuership\r\nEducation L005/L006"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "PAUL ODINDO\r\nEEE 311 Mechanical Science\r\nA104",
+      "Day": "GLADYS MORAA\r\nEEE 315 Materials And Processes\r\nWorkshop Technology\r\nA104",
+      "Time": "GLADYS MORAA\r\nEEE 315 Materials And Processes\r\nWorkshop Technology\r\nA104"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "GIBSON KIPKOECH EEE 310 Physical Science L117",
+      "Day": "GLADYS MORAA\r\nEEE 315 Materials And Processes\r\nWorkshop Technology\r\nL318",
+      "Time": "RAHAB MWANGI\r\nEEE 319 Analogue Electronics\r\nL212"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "RAHAB MWANGI\r\nEEE 319 Analogue Electronics A203",
+      "Day": "RAHAB MWANGI\r\nEEE 319 Analogue Electronics A104",
+      "Time": "FELIX WERU ICT 121 Information Communication Technology A202 LAB"
+    },
+    {
+      "Unit Code": "DEE MOD 1 TERM 3"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "GIBSON KIPKOECH EEE 310 Physical Science L121",
+      "Day": "PAUL ODINDO EEE 311 Mechanical Science A203",
+      "Time": "GIBSON KIPKOECH EEE 310 Physical Science L212"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "PAUL ODINDO\r\nEEE 311 Mechanical Science\r\nL121",
+      "Day": "VIVIAN MUYUMBU\r\nCMB 125 Communication Skills\r\nA103"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "PAUL ODINDO\r\nEEE 311 Mechanical Science\r\nA104",
+      "Day": "GLADYS MORAA\r\nEEE 315 Materials And Processes\r\nWorkshop Technology\r\nA104",
+      "Time": "GLADYS MORAA\r\nEEE 315 Materials And Processes\r\nWorkshop Technology\r\nA104"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "GIBSON KIPKOECH EEE 310 Physical Science L117",
+      "Day": "GLADYS MORAA\r\nEEE 315 Materials And Processes\r\nWorkshop Technology\r\nL318",
+      "Time": "RAHAB MWANGI\r\nEEE 319 Analogue Electronics\r\nL212"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "RAHAB MWANGI\r\nEEE 319 Analogue Electronics A203",
+      "Day": "RAHAB MWANGI\r\nEEE 319 Analogue Electronics A104"
+    },
+    {
+      "Unit Code": "DEE MOD 2 TERM 1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "EUSEBIAH NANZALA EEE 414 Engineering Mathematics II\r\nL213",
+      "Day": "GIBSON KIPKOECH EEE 415 Electrical Circuit Analysis\r\nA003",
+      "Time": "RAHAB MWANGI EEE 412 Digital Electronics L118"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "EUSEBIAH NANZALA EEE 414 Engineering Mathematics II\r\nL318",
+      "Time": "GIBSON KIPKOECH EEE 415 Electrical Circuit Analysis\r\nA003"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "JOSEPH MACHARIA EEE 402 Trade Practice II Workshop",
+      "Time": "RAHAB MWANGI\r\nEEE 412 Digital Electronics\r\nL210"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "RAHAB MWANGI EEE 412 Digital Electronics\r\nL118",
+      "Day": "EUSEBIAH NANZALA EEE 414 Engineering Mathematics II\r\nL004"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "GIBSON KIPKOECH EEE 415 Electrical Circuit Analysis\r\nA003"
+    },
+    {
+      "Unit Code": "DEE MOD 2 TERM 2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "EUSEBIAH NANZALA EEE 414 Engineering Mathematics II\r\nL213",
+      "Day": "GIBSON KIPKOECH EEE 415 Electrical Circuit Analysis\r\nA003",
+      "Time": "RAHAB MWANGI EEE 412 Digital Electronics L118"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "EUSEBIAH NANZALA EEE 414 Engineering Mathematics II\r\nL318",
+      "Time": "GIBSON KIPKOECH EEE 415 Electrical Circuit Analysis\r\nA003"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "JOSEPH MACHARIA EEE 402 Trade Practice II Workshop",
+      "Time": "RAHAB MWANGI\r\nEEE 412 Digital Electronics\r\nL210"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "RAHAB MWANGI EEE 412 Digital Electronics\r\nL118",
+      "Day": "EUSEBIAH NANZALA EEE 414 Engineering Mathematics II\r\nL004"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "GIBSON KIPKOECH EEE 415 Electrical Circuit Analysis\r\nA003"
+    },
+    {
+      "Unit Code": "DEE MOD 2 TERM 3"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "EUSEBIAH NANZALA EEE 414 Engineering Mathematics II\r\nL213",
+      "Day": "GIBSON KIPKOECH EEE 415 Electrical Circuit Analysis\r\nA003",
+      "Time": "RAHAB MWANGI EEE 412 Digital Electronics L118"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "EUSEBIAH NANZALA EEE 414 Engineering Mathematics II\r\nL318",
+      "Time": "GIBSON KIPKOECH EEE 415 Electrical Circuit Analysis\r\nA003"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Time": "RAHAB MWANGI\r\nEEE 412 Digital Electronics\r\nL210"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "RAHAB MWANGI EEE 412 Digital Electronics\r\nL118",
+      "Day": "EUSEBIAH NANZALA EEE 414 Engineering Mathematics II\r\nL004"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "GIBSON KIPKOECH EEE 415 Electrical Circuit Analysis\r\nA003"
+    },
+    {
+      "Unit Code": "DEE MOD 3 TERM 1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "JOSEPH MACHARIA EEE 501 Trade Practice III A303 LAB",
+      "Time": "PAUL ODINDO EEE 517 Electrical Power Transmission And Distribution L121"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "ABIGAEL JERUTO EEE 514 Engineering Mathematics III\r\nL211A"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "ABIGAEL JERUTO EEE 514 Engineering Mathematics III\r\nL120",
+      "Day": "PAUL ODINDO\r\nEEE 517 Electrical Power Transmission And Distribution L120",
+      "Time": "PAUL ODINDO\r\nEEE 517 Electrical Power Transmission And Distribution L318"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "GIBSON KIPKOECH EEE 516 Machine and Utilization\r\nL120",
+      "Time": "GIBSON KIPKOECH EEE 516 Machine and Utilization\r\nL318"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "GIBSON KIPKOECH EEE 516 Machine and Utilization\r\nL120",
+      "Day": "ABIGAEL JERUTO EEE 514 Engineering Mathematics III\r\nL121"
+    },
+    {
+      "Unit Code": "DEE MOD 3 TERM 2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "JOSEPH MACHARIA EEE 501 Trade Practice III A303 LAB",
+      "Time": "PAUL ODINDO EEE 517 Electrical Power Transmission And Distribution L121"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "ABIGAEL JERUTO EEE 514 Engineering Mathematics III\r\nL211A"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "ABIGAEL JERUTO EEE 514 Engineering Mathematics III\r\nL120",
+      "Day": "PAUL ODINDO\r\nEEE 517 Electrical Power Transmission And Distribution L120",
+      "Time": "PAUL ODINDO\r\nEEE 517 Electrical Power Transmission And Distribution L318"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "GIBSON KIPKOECH EEE 516 Machine and Utilization\r\nL120",
+      "Time": "GIBSON KIPKOECH EEE 516 Machine and Utilization\r\nL318"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "GIBSON KIPKOECH EEE 516 Machine and Utilization\r\nL120",
+      "Day": "ABIGAEL JERUTO EEE 514 Engineering Mathematics III\r\nL121"
+    },
+    {
+      "Unit Code": "DEE MOD 3 TERM 3"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "ABIGAEL JERUTO EEE 514 Engineering Mathematics III\r\nL211A",
+      "Time": "PAUL ODINDO EEE 517 Electrical Power Transmission And Distribution L121"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "ABIGAEL JERUTO EEE 514 Engineering Mathematics III\r\nL120",
+      "Day": "PAUL ODINDO\r\nEEE 517 Electrical Power Transmission And Distribution L120",
+      "Time": "PAUL ODINDO\r\nEEE 517 Electrical Power Transmission And Distribution L318"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "GIBSON KIPKOECH EEE 516 Machine and Utilization\r\nL120",
+      "Time": "GIBSON KIPKOECH EEE 516 Machine and Utilization\r\nL318"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "GIBSON KIPKOECH EEE 516 Machine and Utilization\r\nL120",
+      "Day": "ABIGAEL JERUTO EEE 514 Engineering Mathematics III\r\nL121"
+    },
+    {
+      "Unit Code": "DEE Y1S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "ABIGAEL JERUTO DEE 103 Engineering Drawing A003"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "STEPHEN BOSIRE DCU 112 Digital Literacy A401",
+      "Time": "CHRISPHINE ODHIAMBO DEE 101 Physical Science I L116"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "IMMACULATE OLOO DEE 102 Mechanical Science L210",
+      "Time": "DCU 123 Health and Wellness\r\nSELF PACED LEARNING"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "SOLOMON NDERITU\r\nDCU 110 Communication Skills\r\nONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Time": "GERTRUDE KIDALI DEE 100 Engineering Mathematics I\r\nA003"
+    },
+    {
+      "Unit Code": "DEE Y1S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "AMOS MAINGI Workshop Practice Workshop",
+      "Time": "GLADYS MORAA\r\nDEE 206 Materials science and\r\nTechnology\r\nL210"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "AMOS MAINGI DEE 205 Electrical Instrumentation L213"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "IMMACULATE OLOO DEE 203 Electrical Engineering\r\nPrinciples I A003",
+      "Day": "GERTRUDE KIDALI DEE 201 Engineering Mathematics II Workshop",
+      "Time": "GERTRUDE KIDALI DEE 202 Analogue Electronics\r\nI Workshop"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "PHILIP WEKESA DEE 204 Renewable Energy\r\nAnd Technologies\r\nA003",
+      "Time": "AMOS MAINGI DEE 200 Electrical Installation\r\nTechnology I L307"
+    },
+    {
+      "Unit Code": "DEE Y2S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "PHILIP WEKESA DEE 301 Analogue Electronics\r\nII L318",
+      "Time": "JULIAN AMANYA DCU 113 Entrepreneurship and\r\nInnovation\r\nA401"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "JOSEPH MACHARIA EEE 402 Trade Practice II Workshop",
+      "Time": "IMMACULATE OLOO\r\nDEE 303 Electrical Engineering\r\nPrinciples II L207"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "GERTRUDE KIDALI DEE 304 Electrical Installation\r\nTechnology II L211A",
+      "Time": "IMMACULATE OLOO DEE 305 Digital Electronics I L211A"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "CHRISPHINE ODHIAMBO DEE 302 Engineering Mathematics III\r\nL206",
+      "Time": "PHILIP WEKESA\r\nDEE 300 Computer Aided\r\nDesign L116"
+    },
+    {
+      "Unit Code": "DEE Y2S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "JOSEPH MACHARIA EEE 501 Trade Practice III A303 LAB",
+      "Time": "GERTRUDE KIDALI DEE 402 Engineering Mathematics IV Workshop"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Time": "PHILIP WEKESA\r\nDEE 400 Electromagnetic\r\nFields Theory L117"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "PHILIP WEKESA\r\nDEE 404 Industrial Programmable\r\nLogic Controllers L211A",
+      "Day": "AMOS MAINGI\r\nDEE 405 Electrical Measurements\r\nAnd Fault Diagnosis L213",
+      "Time": "CHRISPHINE ODHIAMBO\r\nDEE 401 Digital Electronics II L116"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "PHILIP WEKESA DEE 403 Environmental Literacy L203"
+    },
+    {
+      "Unit Code": "DEE Y3S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "JOSEPH MACHARIA EEE 501 Trade Practice III A303 LAB",
+      "Time": "PHILIP WEKESA DEE 500 Projects And Contracts Management A003"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "CHRISPHINE ODHIAMBO DEE 506 Microprocessor Systems\r\nA003",
+      "Day": "PHILIP WEKESA\r\nDEE 504 Industrial Electronics\r\nL206",
+      "Time": "PAUL ODINDO\r\nDEE 505 Power Systems I L210"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "AMOS MAINGI DEE 501 Control Systems I L116",
+      "Time": "AMOS MAINGI DEE 503 Electrical Machines I A003"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "DEE Y3S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "JOSEPH MACHARIA EEE 501 Trade Practice III A303 LAB"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "PHILIP WEKESA\r\nDEE 603 Electrical machines II L213",
+      "Day": "PAUL ODINDO\r\nDEE 600 Power System II L213"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "IRENE JEPCHIRCHIR\r\nDEE 601 Industrial Organization\r\nAnd Management A003"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "CHRISPHINE ODHIAMBO DEE 602 Utilization Of Electrical Energy Workshop",
+      "Time": "CHRISPHINE ODHIAMBO DEE 605 Control Systems II L120"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "AMOS MAINGI\r\nDEE 604 Microcontrollers Workshop"
+    },
+    {
+      "Unit Code": "DFT Y1S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "ANNE MWANGI\r\nDFT 113 ScreenPlay Writing\r\nEditing Suite"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "STEPHEN BOSIRE DCU 112 Digital Literacy A401"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "DAVID MAINA\r\nDCU 110 Communication Skills\r\nONLINE",
+      "Time": "JOSPHAT GITHUA DFT 110 Theatre and Film Development L121"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Time": "RAWLINGS NYANGAU DFT 114 Introduction to Film Editing Suite"
+    },
+    {
+      "Unit Code": "DFT Y1S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "JULIAN AMANYA\r\nDCU 113 Entrepreneurship and\r\nInnovation A401"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "ANNE MWANGI\r\nDFT 125 Cinematography\r\nL205",
+      "Time": "ESTHER MUTHAMBURE DFT 121 Sound Design and Production\r\nL213"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "SHEILA KIROTWA\r\nDFT 122 Lighting Design for Film and Television Editing Suite",
+      "Time": "DCU 123 Health and Wellness\r\nSELF PACED LEARNING"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Time": "ANNE MWANGI DFT 123 Directing L206"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "DFT Y2S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "ANNE MWANGI DFT 213 Music in Film Editing Suite"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Time": "ANNE MWANGI\r\nDFT 215 Film and Children\r\nONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "JOSPHAT GITHUA\r\nDFT 212 Local Scouting and Set\r\nDesign\r\nSTUDIO"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Time": "RAWLINGS NYANGAU DFT 214 Acting for the Screen STUDIO"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "RAWLINGS NYANGAU DFT 211 Class Production STUDIO"
+    },
+    {
+      "Unit Code": "DFT Y2S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "RAWLINGS NYANGAU DFT 221 Special Effects for Film STUDIO",
+      "Time": "DORA AKINYI DFT 225 Film and Society STUDIO"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Time": "RAWLINGS NYANGAU DFT 223 Editing for Film and Television\r\nSTUDIO"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "DORA AKINYI\r\nDFT 222 Special Topics in Film\r\nL004"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "ANNE MWANGI DFT 224 Production of Commercials\r\nSTUDIO"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "DFT Y3S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "ANNE MWANGI\r\nDFT 311 Music Video and Audio\r\nProduction\r\nSTUDIO",
+      "Day": "ESTHER MUTHAMBURE DFT 312 Film Marketing and Distribution\r\nSTUDIO"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "RAWLINGS NYANGAU DFT 313 Documentary Film Production\r\nSTUDIO"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "DAF SEM 1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "JULIAN AMANYA DCU 113 Entrepreneurship and\r\nInnovation L204"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "STEPHEN BOSIRE DCU 112 Digital Literacy A401"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "DAVID MAINA\r\nDCU 110 Communication Skills\r\nONLINE"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "MONICA MBUGUA\r\nDHR 112 Introduction to Human Resource Management L209",
+      "Day": "MONICA MBUGUA DBM 111 Principles of Management\r\nL209"
+    },
+    {
+      "Unit Code": "DAF SEM 2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "CECILIA KIARIE DBM 121 Introduction to Business\r\nL209"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "DANIEL MWANGI DEC 122 Introduction to Economics\r\nA002",
+      "Day": "DANIEL MWANGI\r\nDAC 123 Financial Accounting I A203",
+      "Time": "DCU 123 Health and Wellness\r\nSELF PACED LEARNING"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "DANIEL IRERI DMT 125 Introduction to\r\nStatistics\r\nL204"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "DAF SEM 3"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "BEATRICE CHEPKOECH DCU 211 Research Methods A104"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Time": "DANIEL MWANGI\r\nDAC 212 Financial Accounting\r\nII A203"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "CECILIA KIARIE DFN 215 Principles of Auditing\r\nONLINE",
+      "Time": "SAMUEL WABUGA DFN 213 Business Law A104"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "LINET MUTEGI DMT 214 Business Mathematics\r\nA103"
+    },
+    {
+      "Unit Code": "DAF SEM 4"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "BALLERINE SHUNZA DAC 224 Princples of Taxation ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "CECILIA KIARIE\r\nDFN 225 Financial Institutions and Capital Markets ONLINE",
+      "Time": "BALLERINE SHUNZA DAC 222 Cost Accounting L004"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "SAMUEL WABUGA DAC 223 Managerial Accounting\r\nL307"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "ELIJAH NYAMWEYA DFN 221 Financial Management\r\nA104"
+    },
+    {
+      "Unit Code": "DEF SEM 1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "JULIAN AMANYA DCU 113 Entrepreneurship and\r\nInnovation L204"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "STEPHEN BOSIRE DCU 112 Digital Literacy A401"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "DAVID MAINA\r\nDCU 110 Communication Skills\r\nONLINE"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "MONICA MBUGUA\r\nDHR 112 Introduction to Human Resource Management L209",
+      "Day": "MONICA MBUGUA DBM 111 Principles of Management\r\nL209"
+    },
+    {
+      "Unit Code": "DEF SEM 2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "CECILIA KIARIE DBM 121 Introduction to Business\r\nL209"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "DANIEL MWANGI DEC 122 Introduction to Economics\r\nA002",
+      "Day": "DANIEL MWANGI\r\nDAC 123 Financial Accounting I A203",
+      "Time": "DCU 123 Health and Wellness\r\nSELF PACED LEARNING"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "DANIEL IRERI DMT 125 Introduction to\r\nStatistics\r\nL204"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "DBIT SEM 1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "FAITH BIYAKI\r\nDIT 112 ICT and ETHICS ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "DANIEL MWANGI\r\nDAC 123 Financial Accounting I L204",
+      "Day": "CECILIA KIARIE DBM 121 Introduction to Business\r\nL209"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "DANIEL IRERI DMT 125 Introduction to\r\nStatistics L204",
+      "Day": "SOLOMON NDERITU DCU 110 Communication Skills\r\nONLINE",
+      "Time": "DAVID GICHOHI DIT 111 Computer Application ICT 1"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "DBIT SEM 2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "FAITH BIYAKI DIT 124 Database Systems A104",
+      "Time": "JANE MWONGELI DSE 111 Structured Programming\r\nA202 LAB"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "ERIC NJAGUA\r\nDIT 122 Operating Systems\r\nONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "DANIEL MWANGI DEC 122 Introduction to Economics\r\nA002"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "DAVID GITHINJI DIT 123 Computer Networks/ CCNA ICT 3",
+      "Day": "NICHOLAS KAVOI\r\nDIT 121 System Analysis And\r\nDesign A002",
+      "Time": "SAMUEL WABUGA DFN 213 Business Law A104"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "DBIT SEM 3"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "BRIAN MWEU DBT 211 Management Information Systems L206"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "RICHARD MUSYOKA DBT 212 E-Commerce ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "FRANCIS MUTUKU\r\nDSE 222 Research Methods In It System Proposal ONLINE",
+      "Day": "ANNETTE WHITNEY DIT 211 Object Oriented Programming\r\nA303 LAB",
+      "Time": "SAMUEL KINUTHIA\r\nDIT 212 Routing and Switching\r\nCCNA 2 A202 LAB"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Time": "RICHARD MUSYOKA\r\nDSE 213 Web Development I A304 LAB"
+    },
+    {
+      "Unit Code": "DBIT SEM 4"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "JULIAN AMANYA DCU 113 Entrepreneurship and\r\nInnovation\r\nA401"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Time": "FRANCIS MUTUKU DBT 402 Business Computerized Accounting ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "BARACK OUKO\r\nDIT 223 Cyber Security CCNA Mod 3 ONLINE",
+      "Time": "ANNETTE WHITNEY DIT 221 Object Oriented Programming II\r\nA304 LAB"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "JANE MWONGELI DSE 223 Web Development II A304 LAB",
+      "Time": "NICHOLAS OYUGI DMK 223 Principles of Marketing\r\nONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "PJORN MURIUKI DSE 315 Computer Systems\r\nProject\r\nL204"
+    },
+    {
+      "Unit Code": "DBMA SEM 1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "JULIAN AMANYA\r\nDCU 113 Entrepreneurship and\r\nInnovation\r\nL204"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "STEPHEN BOSIRE DCU 112 Digital Literacy A401"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "DAVID MAINA\r\nDCU 110 Communication Skills\r\nONLINE"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "MONICA MBUGUA\r\nDHR 112 Introduction to Human Resource Management L209",
+      "Day": "MONICA MBUGUA DBM 111 Principles of Management\r\nL209"
+    },
+    {
+      "Unit Code": "DBMA SEM 2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "CECILIA KIARIE DBM 121 Introduction to Business\r\nL209"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "DANIEL MWANGI DEC 122 Introduction to Economics\r\nA002",
+      "Day": "DANIEL MWANGI\r\nDAC 123 Financial Accounting I A203",
+      "Time": "DCU 123 Health and Wellness\r\nSELF PACED LEARNING"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "DANIEL IRERI DMT 125 Introduction to\r\nStatistics\r\nL204"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "DBMA SEM 3"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "EVANS LANGAT DPS 215 Principles of Procurement\r\nL120",
+      "Time": "BEATRICE CHEPKOECH DCU 211 Research Methods A104"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Time": "DANIEL MWANGI\r\nDAC 212 Financial Accounting\r\nII A203"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Time": "SAMUEL WABUGA DFN 213 Business Law A104"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "LINET MUTEGI DMT 214 Business Mathematics\r\nA103"
+    },
+    {
+      "Unit Code": "DBMA SEM 4"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "ELIJAH NYAMWEYA DBM 222 Insurance and Risk Management\r\nONLINE",
+      "Time": "BALLERINE SHUNZA\r\nDAC 224 Princples of Taxation\r\nONLINE"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Time": "NICHOLAS OYUGI DMK 223 Principles of Marketing\r\nONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "ELIJAH NYAMWEYA DFN 221 Financial Management\r\nA104",
+      "Time": "MONICA MBUGUA DHR 220 Organization Behaviour\r\nL117"
+    },
+    {
+      "Unit Code": "DCS SEM 1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "FAITH BIYAKI DIT 112 ICT and ETHICS ONLINE",
+      "Time": "SOLOMON ROTICH DMT 111 Basic Mathematics L204"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "STEPHEN BOSIRE\r\nDIT 111 Computer Applications\r\nICT 3"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "SOLOMON NDERITU DCU 110 Communication Skills\r\nONLINE",
+      "Time": "JANE MWONGELI DSE 111 Structured Programming ICT 3"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "ELIJAH NYAMWEYA\r\nDAC 123 Financial Accounting I L204"
+    },
+    {
+      "Unit Code": "DCS SEM 2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "BARACK OUKO DCS 121 Electronics ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "STEPHEN BOSIRE\r\nDIT 122 Operating Systems\r\nONLINE",
+      "Time": "DAVID SHIALA\r\nDCS 122 Computer Organization A103"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Time": "SAMUEL NDIRANGU\r\nDIT 123 Computer Networks/ CCNA\r\nICT 3"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "JANE MWONGELI\r\nDIT 124 Database Systems\r\nA103",
+      "Time": "ANNETTE WHITNEY\r\nDIT 121 System Analysis And\r\nDesign L204"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "DCS SEM 3"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "SOLOMON ROTICH DMT 211 Probability and Statistics\r\nL204"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "SAMUEL KINUTHIA\r\nDIT 212 Routing and Switching\r\nCCNA 2\r\nICT 1"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "GITONGA MUNYI\r\nDCS 211 Programming Desktop\r\nApplications\r\nA202 LAB"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "ANNETTE WHITNEY DIT 211 Object Oriented Programming\r\nA202 LAB"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "SOLOMON ROTICH\r\nDMT 121 Discrete Mathematics A401",
+      "Time": "RICHARD MUSYOKA\r\nDSE 213 Web Development I A304 LAB"
+    },
+    {
+      "Unit Code": "DCS SEM 4"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "ANNETTE WHITNEY DIT 221 Object Oriented Programming II\r\nA304 LAB"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "BARACK OUKO\r\nDIT 223 Cyber Security CCNA Mod 3 ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "FRANCIS MUTUKU\r\nDSE 222 Research Methods In It System Proposal ONLINE",
+      "Day": "GITONGA MUNYI\r\nDCS 221 Distributed Systems\r\nA401"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "GODFREY CHEGE DSE 211 Software Engineering\r\nONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Time": "SOLOMON ROTICH DMT 221 Calculus A002"
+    },
+    {
+      "Unit Code": "DCS SEM 5"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "JULIAN AMANYA DCU 113 Entrepreneurship and\r\nInnovation\r\nA401",
+      "Time": "BRIAN MWEU DBT 211 Management Information Systems L206"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "BRIAN MWANGI\r\nDCS 311 Network Design And Administration ONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "JANE MWONGELI DSE 223 Web Development II A304 LAB",
+      "Time": "NICHOLAS KAVOI DSE 315 Computer Systems\r\nProject\r\nA002"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "NANCY MUTHUI\r\nDCS 312 Computer Security ONLINE"
+    },
+    {
+      "Unit Code": "DHM SEM1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "BELDINE KWAMBOKA DFR 111 French 1 L209",
+      "Time": "CHRISTINE KINYA DHM 113 Food production practice\r\nKITCHEN"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "STEPHEN BOSIRE DCU 112 Digital Literacy A401",
+      "Time": "CHRISTINE KINYA DHM 111 Production Theory L205"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "DAVID MAINA DCU 110 Communication Skills\r\nONLINE",
+      "Time": "MILDRED RONO HTM 111 Fundamentals of Hospitality and Tourism management ONLINE"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "DHM SEM2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "FREDRICK MWAURA DHM 121 Food service theory L209",
+      "Day": "MARK MASEMBO DFR 121 French 2 L318",
+      "Time": "JULIAN AMANYA\r\nDCU 113 Entrepreneurship and\r\nInnovation A401"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "AGNES KARANJA DHM 122 Front office operations\r\nL209",
+      "Time": "DCU 123 Health and Wellness\r\nSELF PACED LEARNING"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "FREDRICK MWAURA DHM 124 Food service practice RESTAURANT"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "FREDRICK MWAURA DHM 124 Food service practice RESTAURANT"
+    },
+    {
+      "Unit Code": "DHM SEM3"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "AGNES KARANJA HTM 211 Marketing for Hospitality and Tourism ONLINE",
+      "Day": "BILHAH GITAU\r\nDHM 216 Hospitality Law\r\nL205",
+      "Time": "BELDINE KWAMBOKA DFR 211 french 3 L207"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "AGNES KARANJA DHM 218 Food production management Practice KITCHEN"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "CAROLINE WANJIRU\r\nDHM 215 Food and beverage control L213",
+      "Time": "CAROLINE WANJIRU DHM 212 Housekeeping L207"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "BILHAH GITAU DHM 218 Food production management Practice KITCHEN"
+    },
+    {
+      "Unit Code": "DHM SEM4"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "DAVID MAINA\r\nDCM 212 Principles of Public\r\nRelations ONLINE",
+      "Time": "BEATRICE CHEPKOECH DCU 211 Research Methods A104"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "CAROLINE WANJIRU DHM 222 food service management Practical \r\nRESTAURANT"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Time": "FREDRICK MWAURA DHM 221 Wine and bar operations\r\nL205"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "BELDINE KWAMBOKA DFR 202 French IV L207"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "MONICA MBUGUA DBM 111 Principles of Management L209"
+    },
+    {
+      "Unit Code": "DHM SEM5"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "JULIAN AMANYA\r\nDCU 113 Entrepreneurship and\r\nInnovation L204"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "CHRISTINE KINYA DHM 312 Service Quality ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "ELIJAH NYAMWEYA\r\nDAC 123 Financial Accounting I L204"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "MONICA MBUGUA\r\nDHR 112 Introduction to Human Resource Management L209",
+      "Time": "STEPHEN OTIENO DHM 313 Mixology L209"
+    },
+    {
+      "Unit Code": "DHR SEM 1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "JULIAN AMANYA DCU 113 Entrepreneurship and\r\nInnovation\r\nL204"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "STEPHEN BOSIRE DCU 112 Digital Literacy A401"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "DAVID MAINA\r\nDCU 110 Communication Skills\r\nONLINE"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "MONICA MBUGUA\r\nDHR 112 Introduction to Human Resource Management L209",
+      "Day": "MONICA MBUGUA DBM 111 Principles of Management\r\nL209"
+    },
+    {
+      "Unit Code": "DHR SEM 2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "CECILIA KIARIE DBM 121 Introduction to Business\r\nL209"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "DANIEL MWANGI DEC 122 Introduction to Economics\r\nA002",
+      "Day": "DANIEL MWANGI\r\nDAC 123 Financial Accounting I A203",
+      "Time": "DCU 123 Health and Wellness\r\nSELF PACED LEARNING"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "DANIEL IRERI DMT 125 Introduction to\r\nStatistics\r\nL204"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "DHR SEM 3"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "DAVID MAINA DCM 212 Principles of Public Relations ONLINE",
+      "Time": "BEATRICE CHEPKOECH DCU 211 Research Methods A104"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "SAMUEL WABUGA DEC 212 Labour Economics ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "JOSEPHINE MUTHONI DHR 215 Industrial Psychology ONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "JOSEPHINE MUTHONI DHR 213 Employee Sourcing L118"
+    },
+    {
+      "Unit Code": "DHR SEM 4"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "DAVID MAINA DCM 212 Principles of Public Relations ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "SAMUEL WABUGA DEC 212 Labour Economics ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "JOSEPHINE MUTHONI DHR 215 Industrial Psychology ONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "JOSEPHINE MUTHONI DHR 213 Employee Sourcing L118"
+    },
+    {
+      "Unit Code": "DIT SEM 1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "FAITH BIYAKI DIT 112 ICT and ETHICS ONLINE",
+      "Time": "SOLOMON ROTICH DMT 111 Basic Mathematics L204"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "DAVID SHIALA\r\nDIT 111 Computer Applications\r\nICT 3"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Time": "GITONGA MUNYI\r\nDIT 113 Desktop Publishing\r\nICT 1"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "SOLOMON NDERITU\r\nDCU 110 Communication Skills\r\nONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "ELIJAH NYAMWEYA\r\nDAC 123 Financial Accounting I L204"
+    },
+    {
+      "Unit Code": "DIT SEM 2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "BARACK OUKO DCS 121 Electronics ONLINE",
+      "Day": "FAITH BIYAKI\r\nDIT 124 Database Systems\r\nA104",
+      "Time": "JANE MWONGELI DSE 111 Structured Programming\r\nA202 LAB"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "STEPHEN BOSIRE\r\nDIT 122 Operating Systems\r\nONLINE"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "NICHOLAS KAVOI\r\nDIT 121 System Analysis And\r\nDesign A002",
+      "Time": "ERIC NJAGUA\r\nDIT 123 Computer Networks/ CCNA\r\nA304 LAB"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "DIT SEM 3"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "FRANCIS MUTUKU\r\nDSE 222 Research Methods In It System Proposal ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "ANNETTE WHITNEY DIT 211 Object Oriented Programming\r\nA303 LAB"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "GODFREY CHEGE DSE 211 Software Engineering\r\nONLINE",
+      "Day": "FRANCIS MUTUKU DSE 313 Artificial Intelligence L205",
+      "Time": "BRIAN MWANGI DIT 212 Routing and Switching CCNA 2 L116"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "RICHARD MUSYOKA\r\nDSE 213 Web Development I A304 LAB"
+    },
+    {
+      "Unit Code": "DIT SEM 4"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "MERCILINE OCHIENG\r\nDIT 222 Principles of Computer Support and Maintenance A104",
+      "Day": "ANNETTE WHITNEY DIT 221 Object Oriented Programming II\r\nA304 LAB",
+      "Time": "JULIAN AMANYA\r\nDCU 113 Entrepreneurship and\r\nInnovation A401"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "BARACK OUKO\r\nDIT 223 Cyber Security CCNA Mod 3\r\nONLINE"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "ANNETTE WHITNEY DIT 221 Object Oriented Programming II\r\nA303 LAB"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "PJORN MURIUKI DSE 315 Computer Systems\r\nProject\r\nL204",
+      "Time": "JANE MWONGELI\r\nDSE 223 Web Development II ICT 1"
+    },
+    {
+      "Unit Code": "DPSM SEM 1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Day": "JULIAN AMANYA DCU 113 Entrepreneurship and\r\nInnovation\r\nL204"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "STEPHEN BOSIRE DCU 112 Digital Literacy A401"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "DAVID MAINA\r\nDCU 110 Communication Skills\r\nONLINE"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "MONICA MBUGUA\r\nDHR 112 Introduction to Human Resource Management L209",
+      "Day": "MONICA MBUGUA DBM 111 Principles of Management\r\nL209"
+    },
+    {
+      "Unit Code": "DPSM SEM 2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Day": "CECILIA KIARIE DBM 121 Introduction to Business\r\nL209"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "DANIEL MWANGI DEC 122 Introduction to Economics\r\nA002",
+      "Day": "DANIEL MWANGI\r\nDAC 123 Financial Accounting I A203",
+      "Time": "DCU 123 Health and Wellness\r\nSELF PACED LEARNING"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "DANIEL IRERI DMT 125 Introduction to\r\nStatistics\r\nL204"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "DPSM SEM 3"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "EVANS LANGAT DPS 215 Principles of Procurement\r\nL120",
+      "Day": "JANE MWINGA\r\nDPS 213 Procurement Law\r\nONLINE",
+      "Time": "BEATRICE CHEPKOECH DCU 211 Research Methods A104"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Time": "BEATRICE CHEPKOECH DPS 214 Stores Management and Stock Control\r\nONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Time": "DANIEL MWANGI\r\nDAC 212 Financial Accounting\r\nII A203"
+    },
+    {
+      "Unit Code": "Thursday"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "DPSM SEM 4"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "BEATRICE CHEPKOECH DPS 225 Project and contract management\r\nONLINE",
+      "Day": "PURITY WACHIRA DPS 224 Supply chain vulnerability ONLINE",
+      "Time": "FRANCIS OPUKA DPS 223 Operations Management\r\nL308"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Time": "BALLERINE SHUNZA DAC 222 Cost Accounting L004"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "HILDA MWALE\r\nDPS 221 Purchasing and supplies strategies ONLINE"
+    },
+    {
+      "Unit Code": "Friday"
+    },
+    {
+      "Unit Code": "DSE Y1S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "FREDRICK MBOYA DSE 111 Structured Programming\r\nICT 1 - GROUP 1",
+      "Day": "JANE MWONGELI DSE 111 Structured Programming\r\nICT 1 - GROUP 2",
+      "Time": "FAITH BIYAKI DIT 112 ICT and ETHICS ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "SYMON MATONYO\r\nDMT 111 Basic Mathematics A401"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "ELIJAH NYAMWEYA\r\nDAC 123 Financial Accounting I L204"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "DAVID MAINA\r\nDCU 110 Communication Skills\r\nONLINE",
+      "Day": "STEPHEN BOSIRE\r\nDIT 111 Computer Applications\r\nICT 3 - GROUP 2"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "FREDRICK MBOYA \r\nDIT 111 Computer Applications\r\nA202 LAB - GROUP 1"
+    },
+    {
+      "Unit Code": "DSE Y1S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "BRIAN MWANGI\r\nDIT 123 Computer Networks/ CCNA\r\nL116",
+      "Time": "ANNETTE WHITNEY DIT 211 Object Oriented Programming ICT 1"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "STEPHEN BOSIRE\r\nDIT 122 Operating Systems\r\nONLINE"
+    },
+    {
+      "Unit Code": "Wednesday"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Time": "MESHACK KORIR\r\nDIT 121 System Analysis And\r\nDesign L209"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "SOLOMON ROTICH\r\nDMT 121 Discrete Mathematics\r\nA401"
+    },
+    {
+      "Unit Code": "DSE Y2S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "SOLOMON ROTICH DMT 211 Probability and Statistics\r\nL204"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "NANCY NJAMBI DSE 212 Data Science A104",
+      "Time": "GITONGA MUNYI\r\nDCS 211 Programming Desktop\r\nApplications A304 LAB"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "FAITH BIYAKI\r\nDIT 124 Database Systems\r\nL205",
+      "Day": "SAMUEL KINUTHIA\r\nDIT 212 Routing and Switching\r\nCCNA 2 A202 LAB"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "GODFREY CHEGE\r\nDSE 211 Software Engineering\r\nONLINE"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "RICHARD MUSYOKA\r\nDSE 213 Web Development I A304 LAB"
+    },
+    {
+      "Unit Code": "DSE Y2S2"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Time": "ERIC NJAGUA DSE 221 Human Computer Interaction ONLINE"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "BARACK OUKO\r\nDIT 223 Cyber Security CCNA Mod 3 ONLINE",
+      "Day": "FRANCIS MUTUKU\r\nDSE 222 Research Methods In It System Proposal ONLINE"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "GITONGA MUNYI\r\nDCS 221 Distributed Systems\r\nA401"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "FRANCIS MUTUKU DIT 221 Object Oriented Programming II\r\nICT 1"
+    },
+    {
+      "Unit Code": "Friday",
+      "Day": "JANE MWONGELI\r\nDSE 223 Web Development II ICT 1"
+    },
+    {
+      "Unit Code": "DSE Y3S1"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday",
+      "Unit Name": "JULIAN AMANYA\r\nDCU 113 Entrepreneurship and\r\nInnovation A401"
+    },
+    {
+      "Unit Code": "Tuesday"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Day": "FRANCIS MUTUKU\r\nDSE 313 Artificial Intelligence\r\nL209"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Day": "GODFREY CHEGE\r\nDSE 314 Data Structures and\r\nAlgorithms ONLINE",
+      "Time": "NICHOLAS KAVOI\r\nDSE 315 Computer Systems\r\nProject A002"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "GITONGA MUNYI\r\nDSE 312 Cloud Computing\r\nONLINE",
+      "Day": "PJORN MURIUKI\r\nDSE 311 Mobile Programming\r\nA303 LAB"
+    },
+    {
+      "Unit Code": "ICDL"
+    },
+    {
+      "Unit Name": "0800-1100",
+      "Day": "1100-1400",
+      "Time": "1400-1700"
+    },
+    {
+      "Unit Code": "Monday"
+    },
+    {
+      "Unit Code": "Tuesday",
+      "Unit Name": "CEASER MUTHIKE ICDL\r\nA202 LAB"
+    },
+    {
+      "Unit Code": "Wednesday",
+      "Unit Name": "CEASER MUTHIKE ICDL\r\nICT 3"
+    },
+    {
+      "Unit Code": "Thursday",
+      "Unit Name": "CEASER MUTHIKE ICDL\r\nL116"
+    },
+    {
+      "Unit Code": "Friday",
+      "Unit Name": "CEASER MUTHIKE ICDL\r\nA202 LAB"
+    }
+  ]
+}
