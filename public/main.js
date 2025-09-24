@@ -1,4 +1,7 @@
-document.addEventListener("DOMContentLoaded",()=>{
+
+
+document.addEventListener("DOMContentLoaded",(e)=>{
+    e.preventDefault();
     const searchTable = document.getElementById("searchCourse");
     const searchTableAndDay= document.getElementById("searchDay");
     console.log("working")
@@ -106,5 +109,57 @@ document.addEventListener("DOMContentLoaded",()=>{
       console.error(error);
     });
 });
+
+const uploadFile = document.getElementById("upload");
+
+uploadFile.addEventListener("click", async (e) => {
+  e.preventDefault(); // prevent reload
+
+  const fileInput = document.getElementById("timetable");
+  const file = fileInput.files[0];
+
+  if (!file) {
+    alert("Please choose file first");
+    return;
+  }
+
+  const formData = new FormData();
+  formData.append("file", file);
+
+  let resultBox = document.getElementById("results");
+  resultBox.textContent = `Uploading: ${file.name}...\n`;
+
+  try {
+    fetch("http://localhost:3003/file", {
+  method: "POST",
+  body: formData,
+})
+  .then((response) => {
+    response.preventDefault()
+    if (!response.ok) {
+      return response.text().then((text) => {
+        resultBox.textContent += `Upload failed: ${text}`;
+        throw new Error(text);
+      });
+    }
+    return response.json();
+  })
+  .then((data) => {
+    resultBox.textContent =
+      `Uploaded: ${file.name}\n\n` +
+      (data.structured
+        ? JSON.stringify(data.structured, null, 2)
+        : JSON.stringify(data, null, 2));
+  })
+  .catch((error) => {
+    console.error(error);
+  });
+
+  } catch (error) {
+    console.error("Upload error:", error);
+    resultBox.textContent = "Error uploading file. Check if server is running.";
+  }
+});
+
 
 })
