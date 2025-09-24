@@ -16,8 +16,10 @@ app.get("/",(req,res)=>{
 app.get("/course/:course", (req, res) => {
   const courseParam = decodeURIComponent(req.params.course);
   const course = findCourse(courseParam);
+  console.log(courseParam)
   if (!course) return res.status(404).json({ error: "Course not found" });
-  res.json(course);
+  return res.json(course);
+  
 });
 
 app.get("/course/:course/day/:day", (req, res) => {

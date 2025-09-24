@@ -7,25 +7,32 @@
 </head>
 <body>
     <h1>Document uploader</h1>
-    <form >
+    
         <p>Add file</p>
         <input type="file" name="pdf-upload" id="pdf-upload">
 
         <h2>Query us</h2>
         <div>
-            <input type="text" name="courseParam" placeholder="add course code & year of study" id="">
+            <!-- <input type="text" id="courseName" placeholder="add course name">                   -->
+            <input type="text" id="courseAbrev" placeholder="add course Abbreviation">                  
+            <input type="text" id="courseYr" placeholder="year eg Y1">
+            <input type="text" id="courseSem" placeholder="semester eg S1">
+
             <button id="searchCourse">search</button>
         </div>
         <div>
-            <input type="text" name="courseParam1" placeholder="add course code & year of study" id="">
-            <input type="text" name="dayParam" placeholder="search by day" id="">
+            <input type="text" id="courseAbrev1" placeholder="add course Abbreviation">                  
+            <input type="text" id="courseYr1" placeholder="year eg Y1">
+            <input type="text" id="courseSem1" placeholder="semester eg S1">
+            <input type="text"  id="day" placeholder=" select day">
             <button id="searchDay">search</button>
         </div>
-    </form>
+    
     <div>
         <h3>information center</h3>
-
+        <pre id="results"></pre> <!-- place to show results -->
     </div>
-    <script src="./logic.js"></script>
+
+    <script src="main.js" ></script>
 </body>
 </html>

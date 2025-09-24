@@ -10,12 +10,12 @@ const structured = require("./structured.json")
 
 //find course
 // find course
-async function findCourse(courseParam){
-    const strCourse = structured.filter(item => item["course"] === courseParam);
-
-if (strCourse.length) {
+ function findCourse(courseParam){
+    // const strCourse = structured.find(item => item["course"] === courseParam);
+    const strCourse1 = structured.filter(item=>item.course.toUpperCase().includes(courseParam.toUpperCase()))
+if (strCourse1.length) {
   // timetable
-  const timetable = strCourse[0].timetable;
+  const timetable = strCourse1[0].timetable;
 
   if (timetable && timetable.length) {
     // filled slots with day info
@@ -29,37 +29,41 @@ if (strCourse.length) {
     );
 
      console.log(filledSlots);
-     return filledSlots;
+      return filledSlots.length ? filledSlots : null;
   }
 }
 }
 
-async function findCourseByDay(courseParam,dayname){
-    const strCourse = structured.filter(item => item["course"] === courseParam);
-    //find course by day
-if (strCourse.length) {
-  const timetable = strCourse[0].timetable;
+function findCourseByDay(courseParam, dayName) {
+  // 1. Find the course
+  const course = structured.find(item =>
+    item.course?.toUpperCase().includes(courseParam.toUpperCase())
+  );
 
-  // function to get filled slots for a given day
-  function getSlotsByDay(dayName) {
-    const dayData = timetable.find(d => d.day.toLowerCase() === dayName.toLowerCase());
-    if (!dayData) return [];
-
-    return dayData.slots
-      .filter(slot => slot.value !== "")
-      .map(slot => ({
-        day: dayData.day,
-        ...slot
-      }));
+  if (!course) {
+    return { error: "Course not found" };
   }
 
-//   // Example usage:
-//   const daySlots = getSlotsByDay("Tuesday");
-//   console.log("Monday Slots:", daySlots);  
-console.log(`fetched ${dayname} infromation`)
-  return daySlots;
+  // 2. Find the day in the timetable
+  const dayData = course.timetable.find(
+    d => d.day?.toUpperCase() === dayName.toUpperCase()
+  );
+
+  if (!dayData) {
+    return { error: `No data for ${dayName}` };
+  }
+
+  // 3. Get only slots with values
+  const filledSlots = (dayData.slots || [])
+    .filter(slot => slot.value && slot.value.trim() !== "")
+    .map(slot => ({
+      day: dayData.day,
+      ...slot
+    }));
+
+  return filledSlots.length ? filledSlots : { message: `No classes on ${dayName}` };
 }
-}
+
 
 module.exports={
     findCourse,
@@ -116,3 +120,6 @@ if (strCourse.length) {
 
 
 
+
+const rest = structured.find(item=>item.course.toUpperCase().includes("BBAM"));
+console.log(JSON.stringify(rest))
