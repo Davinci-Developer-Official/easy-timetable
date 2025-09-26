@@ -49,6 +49,8 @@ app.get("/course/:course", (req, res) => {
   return res.json(course);
   
 });
+app.use(express.static('public'));
+
 
 app.get("/course/:course/day/:day", (req, res) => {
   const courseParam = decodeURIComponent(req.params.course);

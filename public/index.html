@@ -20,7 +20,7 @@
         </div>
 
 
-        <h2>Query us</h2>
+        <h2>Get Timetable</h2>
         <!-- <div>
             <input type="text" id="courseAbrev" placeholder="add course Abbreviation">                  
             <input type="text" id="courseYr" placeholder="year eg Y1">
@@ -54,5 +54,63 @@
     </div>
 
     <script src="main.js" ></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f8f9fa;
+            margin: 0;
+            padding: 0;
+        }
+        h1, h2, h3 {
+            color: #333;
+            margin-top: 24px;
+            text-align: center;
+        }
+        div {
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+            padding: 20px;
+            margin: 24px auto;
+            max-width: 650px;
+        }
+        input[type="text"], input[type="file"], select {
+            display: block;
+            width: 100%;
+            margin: 10px 0 16px 0;
+            padding: 8px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-size: 1em;
+        }
+        button {
+            background: #032141;
+            color: #fff;
+            border: none;
+            padding: 10px 18px;
+            border-radius: 4px;
+            font-size: 1em;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        button:hover {
+            background: #0056b3;
+        }
+        pre#results {
+            background: #f1f3f4;
+            border-radius: 4px;
+            padding: 16px;
+            font-size: 1em;
+            color: #222;
+            min-height: 60px;
+            overflow-x: auto;
+        }
+        label {
+            font-weight: bold;
+        }
+        p {
+            margin-bottom: 8px;
+        }
+    </style>
 </body>
 </html>
