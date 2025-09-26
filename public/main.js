@@ -61,12 +61,93 @@ document.addEventListener("DOMContentLoaded",(e)=>{
   const day = document.getElementById("day");
 
   const searchParam = `${courseAbrev.value.toUpperCase()} ${courseYr.value.toUpperCase()}${courseSem.value.toUpperCase()}`;
+  if(courseYr.length===0&&courseSem.length===0){
+    searchParam = `${courseAbrev.value.toUpperCase()}`
+  }
+
   console.log(searchParam + " " + day.value);
 
-  if (courseAbrev.value.length === 0 || courseYr.value.length === 0 || courseSem.value.length === 0) {
-    console.log("Missing required course fields");
-    return;
-  }
+  searchTableAndDay.addEventListener("click", (e) => {
+  e.preventDefault();
+
+  const courseAbrev = document.getElementById("courseAbrev1").value.trim().toUpperCase();
+  const courseYr = document.getElementById("courseYr1").value.trim().toUpperCase();
+  const courseSem = document.getElementById("courseSem1").value.trim().toUpperCase();
+  const day = document.getElementById("day").value.trim();
+
+  // Step 1: fetch all courses with that abbreviation
+  let endpoint = `http://localhost:3003/course/abrev/${encodeURIComponent(courseAbrev)}`;
+
+  fetch(endpoint)
+    .then((response) => {
+      if (!response.ok) throw new Error("Response issue");
+      return response.json();
+    })
+    .then((courses) => {
+      if (!Array.isArray(courses)) {
+        results.innerHTML = `<p>No results found</p>`;
+        return [];
+      }
+
+      // Step 2: filter by year if provided
+      let filtered = courses;
+      if (courseYr) {
+        filtered = filtered.filter((c) => c.course.includes(courseYr));
+      }
+
+      // Step 3: filter by semester if provided
+      if (courseSem) {
+        filtered = filtered.filter((c) => c.course.includes(courseSem));
+      }
+
+      // Step 4: flatten timetable data + filter by day if needed
+      let rows = [];
+      filtered.forEach((c) => {
+        c.timetable.forEach((slot) => {
+          if (!day || slot.day.toUpperCase() === day.toUpperCase()) {
+            slot.slots.forEach((s) => {
+              if (s.value && s.value.trim().length > 0) {
+                rows.push({
+                  day: slot.day,
+                  time: s.time,
+                  value: s.value,
+                });
+              }
+            });
+          }
+        });
+      });
+
+      // Render results
+      if (rows.length > 0) {
+        results.innerHTML = `
+          <table border="1" cellpadding="5">
+            <tr>
+              <th>Day</th>
+              <th>Time</th>
+              <th>Class</th>
+            </tr>
+            ${rows
+              .map(
+                (item) => `
+                <tr>
+                  <td>${item.day}</td>
+                  <td>${item.time}</td>
+                  <td>${item.value}</td>
+                </tr>`
+              )
+              .join("")}
+          </table>
+        `;
+      } else {
+        results.innerHTML = `<p>No timetable slots found for your query.</p>`;
+      }
+    })
+    .catch((error) => {
+      console.error(error);
+    });
+});
+
 
   // decide API endpoint based on whether day is filled
   let endpoint = `http://localhost:3003/course/${encodeURIComponent(searchParam)}`;
