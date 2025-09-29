@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About | Timetable Parser Tool</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background: #f9fafb;
+      color: #111827;
+    }
+    header {
+      background: #1f2937;
+      color: #fff;
+      padding: 2rem 1.5rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    header p {
+      margin-top: 0.5rem;
+      font-size: 1rem;
+      opacity: 0.85;
+    }
+    main {
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 0 1.5rem;
+    }
+    section {
+      margin-bottom: 2.5rem;
+    }
+    h2 {
+      font-size: 1.5rem;
+      margin-bottom: 0.75rem;
+      color: #1f2937;
+    }
+    p {
+      margin-bottom: 1rem;
+    }
+    ul {
+      padding-left: 1.25rem;
+      margin-bottom: 1rem;
+    }
+    li {
+      margin-bottom: 0.5rem;
+    }
+    code {
+      background: #e5e7eb;
+      padding: 0.2rem 0.4rem;
+      border-radius: 4px;
+      font-size: 0.95rem;
+    }
+    footer {
+      background: #f3f4f6;
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #6b7280;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Timetable Parser & Search Tool</h1>
+    <p>A simple, efficient way to transform raw timetables into searchable, structured data.</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Overview</h2>
+      <p>
+        This tool is designed to parse institutional timetables (often in PDF or raw text form) 
+        into structured JSON data. Once processed, users can easily search, filter, and retrieve 
+        timetable information without scrolling endlessly through static tables.
+      </p>
+    </section>
+
+    <section>
+      <h2>Problem Being Solved</h2>
+      <p>
+        Students and administrators often struggle with traditional timetable formats:
+      </p>
+      <ul>
+        <li>Difficult to search for a specific unit or lecturer.</li>
+        <li>Time-consuming to find classes by course, year, or semester.</li>
+        <li>Errors when manually mapping classes from raw schedules.</li>
+      </ul>
+      <p>
+        This tool addresses these issues by <strong>automating the parsing</strong> 
+        and providing a <strong>searchable dataset</strong>.
+      </p>
+    </section>
+
+    <section>
+      <h2>How It Works</h2>
+      <ol>
+        <li>Upload or parse your timetable source (e.g., PDF).</li>
+        <li>The tool converts timetable entries into <code>JSON</code> format.</li>
+        <li>Search by <em>course abbreviation</em>, <em>year</em>, <em>semester</em>, or <em>day</em>.</li>
+        <li>Retrieve clean, structured results instantly.</li>
+      </ol>
+    </section>
+
+    <section>
+      <h2>Usage Example</h2>
+      <p>
+        Suppose you want to find all <code>DCMS</code> Year 3, Semester 1 units:
+      </p>
+      <pre>
+{
+  "course": "DCMS Y3S1",
+  "day": "Monday",
+  "time": "1400-1700",
+  "unit": "Video Production and Editing",
+  "lecturer": "Anne Mwangi",
+  "venue": "L211A"
+}
+      </pre>
+    </section>
+
+    <section>
+      <h2>Key Features</h2>
+      <ul>
+        <li>Transforms raw timetables into clean JSON.</li>
+        <li>Powerful filtering by course, lecturer, year, and semester.</li>
+        <li>Lightweight, fast, and intuitive to use.</li>
+        <li>Reduces confusion and manual searching drastically.</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 Timetable Parser Tool. Built for simplicity and productivity.
+  </footer>
+</body>
+</html>

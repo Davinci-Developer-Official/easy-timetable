@@ -311,5 +311,34 @@ uploadFile.addEventListener("click", async (e) => {
   }
 });
 
+const state = {
+  page:"home",
+  count:0
+}
+const documentation = document.getElementById("documentation");
+// documentation.innerHTML="Project Documentation";
+const style = document.createElement("style");
+style.textContent=`
+<style>
+#documentation{
+color:black;
+coursor:default
+transition: color 0.3s ease;
+}
+#documentation:hover{
+color:blue;
+cursor:pointer;
+text-decoration: underline;
+}
+</style>
+`
+document.head.appendChild(style)
+const text = state.page !== "home" ? "home" : "Documentation";
+documentation.textContent = text;
+
+documentation.addEventListener("click",(e)=>{
+  e.preventDefault();
+  window.location.href="About.html";
+})
 
 })
