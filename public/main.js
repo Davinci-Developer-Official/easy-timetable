@@ -76,7 +76,7 @@ document.addEventListener("DOMContentLoaded",(e)=>{
   const day = document.getElementById("day").value.trim();
 
   // Step 1: fetch all courses with that abbreviation
-  let endpoint = `http://localhost:3003/course/abrev/${encodeURIComponent(courseAbrev)}`;
+  let endpoint = `https://easy-timetable.vercel.app/course/abrev/${encodeURIComponent(courseAbrev)}`;
 
   fetch(endpoint)
     .then((response) => {
@@ -150,7 +150,7 @@ document.addEventListener("DOMContentLoaded",(e)=>{
 
 
   // decide API endpoint based on whether day is filled
-  let endpoint = `http://localhost:3003/course/${encodeURIComponent(searchParam)}`;
+  let endpoint = `https://easy-timetable.vercel.app/course/${encodeURIComponent(searchParam)}`;
   if (day.value.trim().length > 0) {
     endpoint += `/day/${encodeURIComponent(day.value)}`;
   }
@@ -280,7 +280,7 @@ uploadFile.addEventListener("click", async (e) => {
   resultBox.textContent = `Uploading: ${file.name}...\n`;
 
   try {
-    fetch("http://localhost:3003/file", {
+    fetch("https://easy-timetable.vercel.app/file", {
   method: "POST",
   body: formData,
 })
