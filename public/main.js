@@ -76,7 +76,7 @@ document.addEventListener("DOMContentLoaded",(e)=>{
   const day = document.getElementById("day").value.trim();
 
   // Step 1: fetch all courses with that abbreviation
-  let endpoint = `https://easy-timetable.vercel.app/course/abrev/${encodeURIComponent(courseAbrev)}`;
+  let endpoint = `https://easy-timetable-biznet.vercel.app/course/abrev/${encodeURIComponent(courseAbrev)}`;
 
   fetch(endpoint)
     .then((response) => {
