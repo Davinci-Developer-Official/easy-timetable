@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded",(e)=>{
     e.preventDefault();
     const searchTable = document.getElementById("searchCourse");
     const searchTableAndDay= document.getElementById("searchDay");
-    console.log("working")
+    console.log("working");
 //     searchTable.addEventListener("click",(e)=>{
 //         e.preventDefault();
 //         const courseName = document.getElementById("courseName")
