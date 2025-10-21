@@ -10,7 +10,7 @@ getCourse.addEventListener("click", (e) => {
     return;
   }
 
-  fetch(`http://localhost:3003/course/?${encodeURIComponent(courseParam)}`,{
+  fetch(`https://easy-timetable.vercel.app/course/?${encodeURIComponent(courseParam)}`,{
     method:"GET",
     headers: {
     'Content-Type': 'application/json'
